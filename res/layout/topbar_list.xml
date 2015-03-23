@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/light_green" >
+
+    <ImageView
+        android:layout_width="10dp"
+        android:layout_height="15dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="15dp"
+        android:background="@drawable/abc_ic_ab_back_holo_dark" />
+
+    <ImageView
+        android:id="@+id/back_list"
+        android:layout_width="60dp"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_selector" />
+
+    <TextView
+        android:id="@+id/year_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="60dp"
+        android:textColor="#b64a09"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/tvs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/year_tv"
+        android:text="年清单"
+        android:textColor="@color/text_normal"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/top_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="2dp"
+        android:text="清单"
+        android:textColor="#b64a09"
+        android:textSize="18sp" />
+
+    <ImageView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignRight="@id/top_name"
+        android:layout_below="@id/top_name"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/abc_spinner_ab_default_holo_dark"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/time_ivs"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="80dp"
+        android:background="@drawable/icon_action_bar_time" />
+
+    <ImageView
+        android:id="@+id/time_iv"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="60dp" />
+
+    <ImageView
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_alignRight="@id/time_ivs"
+        android:layout_below="@id/time_ivs"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/abc_spinner_ab_default_holo_dark" />
+
+    <ImageView
+        android:id="@+id/searchs"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/icon_action_bar_search" />
+
+    <ImageView
+        android:id="@+id/search"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_selector" />
+
+</RelativeLayout>

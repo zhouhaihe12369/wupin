@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="objtype">
+        <item>衣物</item>
+        <item>鞋子</item>
+        <item>文具</item>
+        <item>厨具</item>
+        <item>灯饰</item>
+        <item>五谷</item>
+        <item>油盐</item>
+        <item>钥匙</item>
+        <item>玩具</item>
+        <item>奶粉</item>
+        <item>书籍</item>
+        <item>家具</item>
+        <item>五金</item>
+    </string-array>
+    <string-array name="places">
+        <item>衣柜</item>
+        <item>橱柜</item>
+        <item>鞋柜</item>
+        <item>冰箱</item>
+        <item>阳台</item>
+        <item>抽屉</item>
+    </string-array>
+    <string-array name="ownertype">
+        <item>老公</item>
+        <item>老婆</item>
+        <item>儿子</item>
+        <item>女儿</item>
+    </string-array>
+
+    <declare-styleable name="SlidingMenu">
+        <attr name="mode">
+            <enum name="left" value="0" />
+            <enum name="right" value="1" />
+        </attr>
+        <attr name="viewAbove" format="reference" />
+        <attr name="viewBehind" format="reference" />
+        <attr name="behindOffset" format="dimension" />
+        <attr name="behindWidth" format="dimension" />
+        <attr name="behindScrollScale" format="float" />
+        <attr name="touchModeAbove">
+            <enum name="margin" value="0" />
+            <enum name="fullscreen" value="1" />
+        </attr>
+        <attr name="touchModeBehind">
+            <enum name="margin" value="0" />
+            <enum name="fullscreen" value="1" />
+        </attr>
+        <attr name="shadowDrawable" format="reference" />
+        <attr name="shadowWidth" format="dimension" />
+        <attr name="fadeEnabled" format="boolean" />
+        <attr name="fadeDegree" format="float" />
+        <attr name="selectorEnabled" format="boolean" />
+        <attr name="selectorDrawable" format="reference" />
+    </declare-styleable>
+
+</resources>

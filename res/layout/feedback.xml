@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_bar" />
+
+    <EditText
+        android:id="@+id/feedback_et"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_margin="20dp"
+        android:background="@drawable/big"
+        android:gravity="top"
+        android:hint="感谢您对物品记的支持，点此输入反馈信息,谢谢!"
+        android:padding="8dp"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/save_feedback_bt"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="20dp"
+        android:background="@drawable/btn"
+        android:text="发送"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

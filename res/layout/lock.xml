@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_bar" />
+
+    <TextView
+        android:id="@+id/lock_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="绘制解锁图案"
+        android:textColor="#00ff00" />
+
+    <com.chery.wupin.view.LockPatternView
+        android:id="@+id/lpv_lock"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:background="#E4E4E4" />
+
+    <Button
+        android:id="@+id/reset_btn"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn"
+        android:text="重绘"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+</LinearLayout>

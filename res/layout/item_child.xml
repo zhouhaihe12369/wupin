@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/child_rl"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:background="@color/light_gray" >
+
+        <ImageView
+            android:id="@+id/child_portrait"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:id="@+id/names"
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="100dp"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textColor="@color/dark_gray"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/owner_child"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="55dp"
+            android:textColor="@color/dark_gray"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/address_child"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/owner_child"
+            android:layout_below="@id/owner_child"
+            android:textColor="@color/dark_gray"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/time_child_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="3dp"
+            android:layout_marginRight="20dp"
+            android:textColor="@color/dark_gray"
+            android:textSize="10sp" />
+
+        <TextView
+            android:id="@+id/name_child_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="190dp"
+            android:textColor="@color/dark_gray"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/price_child_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:textColor="@color/dark_gray"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:layout_width="8dp"
+            android:layout_height="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/common_list_item_arrow" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.5dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="5dp"
+            android:background="@android:color/darker_gray" />
+    </RelativeLayout>
+
+</LinearLayout>

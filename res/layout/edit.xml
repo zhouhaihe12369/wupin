@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_bar" />
+
+    <EditText
+        android:id="@+id/edit_et"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="@android:color/transparent"
+        android:hint="请添加类别"
+        android:paddingLeft="10dp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:background="@android:color/black" />
+
+</LinearLayout>

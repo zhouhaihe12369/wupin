@@ -1,0 +1,1629 @@
+android.support.v4.app.ActionBarDrawerToggle
+android.support.v4.app.ActivityCompat
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.DialogFragment
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentPagerAdapter
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentStatePagerAdapter
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.ListFragment
+android.support.v4.app.NotificationCompat$BigPictureStyle
+android.support.v4.app.NotificationCompat$BigTextStyle
+android.support.v4.app.NotificationCompat$InboxStyle
+android.support.v4.content.AsyncTaskLoader
+android.support.v4.content.CursorLoader
+android.support.v4.content.FileProvider
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.content.WakefulBroadcastReceiver
+android.support.v4.internal.view.SupportSubMenu
+android.support.v4.media.TransportMediator
+android.support.v4.util.ArrayMap
+android.support.v4.view.PagerTabStrip
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.view.ViewPager$SimpleOnPageChangeListener
+android.support.v4.widget.CursorAdapter
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout$SimpleDrawerListener
+android.support.v4.widget.ExploreByTouchHelper
+android.support.v4.widget.ListViewAutoScrollHelper
+android.support.v4.widget.ResourceCursorAdapter
+android.support.v4.widget.SimpleCursorAdapter
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout$SimplePanelSlideListener
+cn.bidaround.point.PointActivity
+cn.bidaround.youtui.R$anim: int yt_sharepopup_fade_in
+cn.bidaround.youtui.R$anim: int yt_sharepopup_fade_in_fast
+cn.bidaround.youtui.R$anim: int yt_sharepopup_fade_out
+cn.bidaround.youtui.R$anim: int yt_sharepopup_fade_out_fast
+cn.bidaround.youtui.R$color: int yt_black
+cn.bidaround.youtui.R$color: int yt_blue
+cn.bidaround.youtui.R$color: int yt_cap_blue
+cn.bidaround.youtui.R$color: int yt_cap_blue_green
+cn.bidaround.youtui.R$color: int yt_cap_gray
+cn.bidaround.youtui.R$color: int yt_cap_green
+cn.bidaround.youtui.R$color: int yt_cap_orange
+cn.bidaround.youtui.R$color: int yt_cap_red
+cn.bidaround.youtui.R$color: int yt_cap_yellow
+cn.bidaround.youtui.R$color: int yt_qrcode_blue
+cn.bidaround.youtui.R$drawable: int yt_btn_style_alert_dialog_cancel_normal
+cn.bidaround.youtui.R$drawable: int yt_button
+cn.bidaround.youtui.R$drawable: int yt_colorchoose_blue
+cn.bidaround.youtui.R$drawable: int yt_colorchoose_blue_green
+cn.bidaround.youtui.R$drawable: int yt_colorchoose_gray
+cn.bidaround.youtui.R$drawable: int yt_colorchoose_green
+cn.bidaround.youtui.R$drawable: int yt_colorchoose_orange
+cn.bidaround.youtui.R$drawable: int yt_colorchoose_red
+cn.bidaround.youtui.R$drawable: int yt_colorchoose_yellow
+cn.bidaround.youtui.R$drawable: int yt_demo
+cn.bidaround.youtui.R$drawable: int yt_erweimaact
+cn.bidaround.youtui.R$drawable: int yt_evernote
+cn.bidaround.youtui.R$drawable: int yt_facebook
+cn.bidaround.youtui.R$drawable: int yt_guide_dot_black
+cn.bidaround.youtui.R$drawable: int yt_guide_dot_white
+cn.bidaround.youtui.R$drawable: int yt_kaixinw
+cn.bidaround.youtui.R$drawable: int yt_left_arrow
+cn.bidaround.youtui.R$drawable: int yt_lianjieact
+cn.bidaround.youtui.R$drawable: int yt_list_item_unselected_color_border
+cn.bidaround.youtui.R$drawable: int yt_list_newmessage
+cn.bidaround.youtui.R$drawable: int yt_loadfail
+cn.bidaround.youtui.R$drawable: int yt_mailact
+cn.bidaround.youtui.R$drawable: int yt_messact
+cn.bidaround.youtui.R$drawable: int yt_more
+cn.bidaround.youtui.R$drawable: int yt_pyqact
+cn.bidaround.youtui.R$drawable: int yt_qqact
+cn.bidaround.youtui.R$drawable: int yt_qqkjact
+cn.bidaround.youtui.R$drawable: int yt_reddot
+cn.bidaround.youtui.R$drawable: int yt_renrenact
+cn.bidaround.youtui.R$drawable: int yt_screencap_cancel
+cn.bidaround.youtui.R$drawable: int yt_screencap_circle_middle_off
+cn.bidaround.youtui.R$drawable: int yt_screencap_circle_middle_on
+cn.bidaround.youtui.R$drawable: int yt_screencap_circle_small_off
+cn.bidaround.youtui.R$drawable: int yt_screencap_circle_small_on
+cn.bidaround.youtui.R$drawable: int yt_screencap_pencil_off
+cn.bidaround.youtui.R$drawable: int yt_screencap_pencil_on
+cn.bidaround.youtui.R$drawable: int yt_screencap_rectangle_off
+cn.bidaround.youtui.R$drawable: int yt_screencap_rectangle_on
+cn.bidaround.youtui.R$drawable: int yt_screencap_save
+cn.bidaround.youtui.R$drawable: int yt_sendbutton
+cn.bidaround.youtui.R$drawable: int yt_side
+cn.bidaround.youtui.R$drawable: int yt_tengxunact
+cn.bidaround.youtui.R$drawable: int yt_wechat_favorite
+cn.bidaround.youtui.R$drawable: int yt_wxact
+cn.bidaround.youtui.R$drawable: int yt_xinlangact
+cn.bidaround.youtui.R$drawable: int yt_yixin
+cn.bidaround.youtui.R$drawable: int yt_yxfs
+cn.bidaround.youtui.R$id: int balckgrid_sharepoint
+cn.bidaround.youtui.R$id: int cancel_bt
+cn.bidaround.youtui.R$id: int dialogactivity_cancel_bt
+cn.bidaround.youtui.R$id: int dialogactivity_webview
+cn.bidaround.youtui.R$id: int frameLayout1
+cn.bidaround.youtui.R$id: int frameLayout2
+cn.bidaround.youtui.R$id: int griditem_point_tv
+cn.bidaround.youtui.R$id: int list_bt
+cn.bidaround.youtui.R$id: int logo_imageview
+cn.bidaround.youtui.R$id: int logo_textview
+cn.bidaround.youtui.R$id: int main_addpoint_bt
+cn.bidaround.youtui.R$id: int main_givepoint_bt
+cn.bidaround.youtui.R$id: int main_item_framelayout
+cn.bidaround.youtui.R$id: int main_kaixinwang_imageview
+cn.bidaround.youtui.R$id: int main_point_tv
+cn.bidaround.youtui.R$id: int main_point_tv1
+cn.bidaround.youtui.R$id: int main_point_tv2
+cn.bidaround.youtui.R$id: int main_qq_imageview
+cn.bidaround.youtui.R$id: int main_renn_image
+cn.bidaround.youtui.R$id: int main_sina_imageview
+cn.bidaround.youtui.R$id: int main_sinashare_imageview
+cn.bidaround.youtui.R$id: int main_tencentwb_imageview
+cn.bidaround.youtui.R$id: int main_test_bt
+cn.bidaround.youtui.R$id: int main_whiteviewpager_bt
+cn.bidaround.youtui.R$id: int mian_login_linear
+cn.bidaround.youtui.R$id: int pagergrid_item_framelayout
+cn.bidaround.youtui.R$id: int pointweb_back_linelay
+cn.bidaround.youtui.R$id: int pointweb_title_text
+cn.bidaround.youtui.R$id: int pointweb_webview
+cn.bidaround.youtui.R$id: int popup_bt
+cn.bidaround.youtui.R$id: int popup_list_line
+cn.bidaround.youtui.R$id: int popup_qrcode_cancel_bt
+cn.bidaround.youtui.R$id: int popup_qrcode_image
+cn.bidaround.youtui.R$id: int popup_qrcode_scan
+cn.bidaround.youtui.R$id: int popup_whiteviewpage_cancel_bt
+cn.bidaround.youtui.R$id: int popup_whiteviewpage_indicator_linelay
+cn.bidaround.youtui.R$id: int popup_whiteviewpage_one_iv
+cn.bidaround.youtui.R$id: int popup_whiteviewpage_viewpager
+cn.bidaround.youtui.R$id: int popup_whiteviewpage_zero_iv
+cn.bidaround.youtui.R$id: int popup_whiteviewpager_header_layout
+cn.bidaround.youtui.R$id: int popup_whiteviewpager_line
+cn.bidaround.youtui.R$id: int popup_whiteviewpager_share_text
+cn.bidaround.youtui.R$id: int share_viewpager
+cn.bidaround.youtui.R$id: int shareedit_back_linelay
+cn.bidaround.youtui.R$id: int shareedit_share_bt
+cn.bidaround.youtui.R$id: int shareedit_sharetext_edit
+cn.bidaround.youtui.R$id: int shareedit_sharetitle_text
+cn.bidaround.youtui.R$id: int shareedit_title_linelay
+cn.bidaround.youtui.R$id: int shareedit_title_text
+cn.bidaround.youtui.R$id: int shareeidt_shareimage_image
+cn.bidaround.youtui.R$id: int sharelist_knowaction_btn
+cn.bidaround.youtui.R$id: int sharelist_point_linelay
+cn.bidaround.youtui.R$id: int sharelist_selectplatform_layout
+cn.bidaround.youtui.R$id: int sharelist_selectplatform_text
+cn.bidaround.youtui.R$id: int sharelist_share_list
+cn.bidaround.youtui.R$id: int sharelistitem_logo_image
+cn.bidaround.youtui.R$id: int sharelistitem_platform_text
+cn.bidaround.youtui.R$id: int sharelistitem_point_text
+cn.bidaround.youtui.R$id: int sharepager_grid
+cn.bidaround.youtui.R$id: int sharepopup_indicator_linelay
+cn.bidaround.youtui.R$id: int sharepopup_one_iv
+cn.bidaround.youtui.R$id: int sharepopup_two_iv
+cn.bidaround.youtui.R$id: int sharepopup_zero_iv
+cn.bidaround.youtui.R$id: int textView1
+cn.bidaround.youtui.R$id: int user_image
+cn.bidaround.youtui.R$id: int user_text1
+cn.bidaround.youtui.R$id: int user_text2
+cn.bidaround.youtui.R$id: int user_text3
+cn.bidaround.youtui.R$id: int user_text4
+cn.bidaround.youtui.R$id: int wechat_favorite
+cn.bidaround.youtui.R$id: int weixinlogin
+cn.bidaround.youtui.R$id: int whitepagergrid_item_framelayout
+cn.bidaround.youtui.R$id: int whitepagergrid_logo_imageview
+cn.bidaround.youtui.R$id: int whitepagergrid_logo_textview
+cn.bidaround.youtui.R$id: int whitepagergrid_point_tv
+cn.bidaround.youtui.R$id: int whitepagergrid_sharepoint
+cn.bidaround.youtui.R$id: int yt_blackpopup_header_layout
+cn.bidaround.youtui.R$id: int yt_blackpopup_screencap_text
+cn.bidaround.youtui.R$id: int yt_listpopup_screencap_text
+cn.bidaround.youtui.R$id: int yt_screen_drawline
+cn.bidaround.youtui.R$id: int yt_screen_drawrect
+cn.bidaround.youtui.R$id: int yt_screencap_back_linelay
+cn.bidaround.youtui.R$id: int yt_screencap_bottom_layout
+cn.bidaround.youtui.R$id: int yt_screencap_choose_color
+cn.bidaround.youtui.R$id: int yt_screencap_choose_color_image
+cn.bidaround.youtui.R$id: int yt_screencap_choose_color_text
+cn.bidaround.youtui.R$id: int yt_screencap_choose_paintwidth
+cn.bidaround.youtui.R$id: int yt_screencap_choose_paintwidth_image
+cn.bidaround.youtui.R$id: int yt_screencap_choose_paintwidth_text
+cn.bidaround.youtui.R$id: int yt_screencap_clear
+cn.bidaround.youtui.R$id: int yt_screencap_clear_text
+cn.bidaround.youtui.R$id: int yt_screencap_drawline_image
+cn.bidaround.youtui.R$id: int yt_screencap_drawline_text
+cn.bidaround.youtui.R$id: int yt_screencap_drawrect_image
+cn.bidaround.youtui.R$id: int yt_screencap_drawrect_text
+cn.bidaround.youtui.R$id: int yt_screencap_header_layout
+cn.bidaround.youtui.R$id: int yt_screencap_image
+cn.bidaround.youtui.R$id: int yt_screencap_save
+cn.bidaround.youtui.R$id: int yt_screencap_save_text
+cn.bidaround.youtui.R$id: int yt_screencap_share_bt
+cn.bidaround.youtui.R$id: int yt_whiteviewpager_screencap_text
+cn.bidaround.youtui.R$layout: int yt_activity_dialog
+cn.bidaround.youtui.R$layout: int yt_activity_main
+cn.bidaround.youtui.R$layout: int yt_activity_screencapedit
+cn.bidaround.youtui.R$layout: int yt_activity_shareedit
+cn.bidaround.youtui.R$layout: int yt_activity_uesr
+cn.bidaround.youtui.R$layout: int yt_pagergrid_item
+cn.bidaround.youtui.R$layout: int yt_point_webview
+cn.bidaround.youtui.R$layout: int yt_popup_list
+cn.bidaround.youtui.R$layout: int yt_popup_qrcode
+cn.bidaround.youtui.R$layout: int yt_popup_viewpager
+cn.bidaround.youtui.R$layout: int yt_popup_whiteviewpager
+cn.bidaround.youtui.R$layout: int yt_share_pager
+cn.bidaround.youtui.R$layout: int yt_sharelist_item
+cn.bidaround.youtui.R$layout: int yt_whiteviewpager_grid_item
+cn.bidaround.youtui.R$string: int action_settings
+cn.bidaround.youtui.R$string: int app_name
+cn.bidaround.youtui.R$string: int hello_world
+cn.bidaround.youtui.R$string: int youtui_appId
+cn.bidaround.youtui.R$string: int yt_authcancel
+cn.bidaround.youtui.R$string: int yt_authfailed
+cn.bidaround.youtui.R$string: int yt_authing
+cn.bidaround.youtui.R$string: int yt_authlogincancel
+cn.bidaround.youtui.R$string: int yt_authsuccess
+cn.bidaround.youtui.R$string: int yt_cancel
+cn.bidaround.youtui.R$string: int yt_chooseemail
+cn.bidaround.youtui.R$string: int yt_connecterror
+cn.bidaround.youtui.R$string: int yt_copyfail
+cn.bidaround.youtui.R$string: int yt_copylink
+cn.bidaround.youtui.R$string: int yt_copysuccess
+cn.bidaround.youtui.R$string: int yt_description
+cn.bidaround.youtui.R$string: int yt_email
+cn.bidaround.youtui.R$string: int yt_evernote
+cn.bidaround.youtui.R$string: int yt_getsharecontent_fail
+cn.bidaround.youtui.R$string: int yt_kaixin
+cn.bidaround.youtui.R$string: int yt_loading
+cn.bidaround.youtui.R$string: int yt_logincancel
+cn.bidaround.youtui.R$string: int yt_loginsuccess
+cn.bidaround.youtui.R$string: int yt_man
+cn.bidaround.youtui.R$string: int yt_more
+cn.bidaround.youtui.R$string: int yt_nokaixin
+cn.bidaround.youtui.R$string: int yt_nonetwork
+cn.bidaround.youtui.R$string: int yt_nopic
+cn.bidaround.youtui.R$string: int yt_noqqclient
+cn.bidaround.youtui.R$string: int yt_norennclient
+cn.bidaround.youtui.R$string: int yt_notargeturl
+cn.bidaround.youtui.R$string: int yt_nowechatclient
+cn.bidaround.youtui.R$string: int yt_noyixinclient
+cn.bidaround.youtui.R$string: int yt_pointcharge
+cn.bidaround.youtui.R$string: int yt_qrcode
+cn.bidaround.youtui.R$string: int yt_qzone
+cn.bidaround.youtui.R$string: int yt_reauth
+cn.bidaround.youtui.R$string: int yt_reconnect
+cn.bidaround.youtui.R$string: int yt_renn
+cn.bidaround.youtui.R$string: int yt_savecap
+cn.bidaround.youtui.R$string: int yt_screencap
+cn.bidaround.youtui.R$string: int yt_share
+cn.bidaround.youtui.R$string: int yt_share_fail
+cn.bidaround.youtui.R$string: int yt_share_suc
+cn.bidaround.youtui.R$string: int yt_shareing
+cn.bidaround.youtui.R$string: int yt_sharepic
+cn.bidaround.youtui.R$string: int yt_shortmessage
+cn.bidaround.youtui.R$string: int yt_sinaweibo
+cn.bidaround.youtui.R$string: int yt_teccentweibo
+cn.bidaround.youtui.R$string: int yt_tencentweibo
+cn.bidaround.youtui.R$string: int yt_unknownfilesize
+cn.bidaround.youtui.R$string: int yt_wechat
+cn.bidaround.youtui.R$string: int yt_wechatfavorite
+cn.bidaround.youtui.R$string: int yt_wechatmoments
+cn.bidaround.youtui.R$string: int yt_woman
+cn.bidaround.youtui.R$string: int yt_yixin
+cn.bidaround.youtui.R$string: int yt_yixinfs
+cn.bidaround.youtui.R$style: int AppBaseTheme
+cn.bidaround.youtui.R$style: int AppTheme
+cn.bidaround.youtui.R$style: int YtDialogTheme
+cn.bidaround.youtui.R$style: int YtSharePopupAnim
+cn.bidaround.youtui.R$style: int YtSharePopupAnimFast
+cn.bidaround.youtui_template.ScreenCapEditActivity
+cn.bidaround.youtui_template.ScreenCapEditActivity: ScreenCapEditActivity()
+cn.bidaround.youtui_template.ScreenCapEditActivity: void onClick(android.view.View)
+cn.bidaround.youtui_template.SharePagerAdapter
+cn.bidaround.youtui_template.ViewPagerPopup
+cn.bidaround.youtui_template.WhiteViewPagerTemplate
+cn.bidaround.ytcore.R$drawable: int ic_launcher
+cn.bidaround.ytcore.R$string: int app_name
+cn.bidaround.ytcore.R$string: int yt_authcancel
+cn.bidaround.ytcore.R$string: int yt_authfailed
+cn.bidaround.ytcore.R$string: int yt_authing
+cn.bidaround.ytcore.R$string: int yt_authlogincancel
+cn.bidaround.ytcore.R$string: int yt_authsuccess
+cn.bidaround.ytcore.R$string: int yt_chooseemail
+cn.bidaround.ytcore.R$string: int yt_connecterror
+cn.bidaround.ytcore.R$string: int yt_copyfail
+cn.bidaround.ytcore.R$string: int yt_copysuccess
+cn.bidaround.ytcore.R$string: int yt_description
+cn.bidaround.ytcore.R$string: int yt_getsharecontent_fail
+cn.bidaround.ytcore.R$string: int yt_kaixin
+cn.bidaround.ytcore.R$string: int yt_loading
+cn.bidaround.ytcore.R$string: int yt_logincancel
+cn.bidaround.ytcore.R$string: int yt_loginsuccess
+cn.bidaround.ytcore.R$string: int yt_man
+cn.bidaround.ytcore.R$string: int yt_nokaixin
+cn.bidaround.ytcore.R$string: int yt_nonetwork
+cn.bidaround.ytcore.R$string: int yt_nopic
+cn.bidaround.ytcore.R$string: int yt_noqqclient
+cn.bidaround.ytcore.R$string: int yt_norennclient
+cn.bidaround.ytcore.R$string: int yt_nowechatclient
+cn.bidaround.ytcore.R$string: int yt_noyixinclient
+cn.bidaround.ytcore.R$string: int yt_reauth
+cn.bidaround.ytcore.R$string: int yt_reconnect
+cn.bidaround.ytcore.R$string: int yt_renn
+cn.bidaround.ytcore.R$string: int yt_share
+cn.bidaround.ytcore.R$string: int yt_share_fail
+cn.bidaround.ytcore.R$string: int yt_share_suc
+cn.bidaround.ytcore.R$string: int yt_shareing
+cn.bidaround.ytcore.R$string: int yt_sharepic
+cn.bidaround.ytcore.R$string: int yt_sinaweibo
+cn.bidaround.ytcore.R$string: int yt_teccentweibo
+cn.bidaround.ytcore.R$string: int yt_unknownfilesize
+cn.bidaround.ytcore.R$string: int yt_woman
+cn.bidaround.ytcore.R$style: int AppBaseTheme
+cn.bidaround.ytcore.R$style: int AppTheme
+cn.bidaround.ytcore.YtBaseActivity
+cn.bidaround.ytcore.YtBaseActivity: YtBaseActivity()
+cn.bidaround.ytcore.activity.ShareActivity
+cn.bidaround.ytcore.activity.ShareActivity: ShareActivity()
+cn.bidaround.ytcore.activity.YtBaseShareActivity
+cn.bidaround.ytcore.activity.YtBaseShareActivity: YtBaseShareActivity()
+cn.bidaround.ytcore.data.YtPlatform: cn.bidaround.ytcore.data.YtPlatform[] values()
+cn.bidaround.ytcore.data.YtPlatform: cn.bidaround.ytcore.data.YtPlatform valueOf(java.lang.String)
+cn.bidaround.ytcore.login.AuthActivity
+cn.bidaround.ytcore.login.AuthActivity: AuthActivity()
+cn.bidaround.ytcore.login.QQAuthActivity
+cn.bidaround.ytcore.login.SinaAuthActivity
+cn.bidaround.ytcore.login.SinaAuthActivity: SinaAuthActivity()
+cn.bidaround.ytcore.login.TencentAuthActivity
+cn.bidaround.ytcore.renn.RennAccessTokenManager
+cn.bidaround.ytcore.renn.RennAccessTokenManager: android.os.Parcelable$Creator CREATOR
+cn.bidaround.ytcore.renn.Renren
+cn.bidaround.ytcore.renn.Renren: android.os.Parcelable$Creator CREATOR
+cn.bidaround.ytcore.volly.NetworkImageView: void setDefaultImageResId(int)
+cn.bidaround.ytcore.volly.NetworkImageView: void setErrorImageResId(int)
+cn.bidaround.ytcore.volly.Request$Priority: cn.bidaround.ytcore.volly.Request$Priority[] values()
+cn.bidaround.ytcore.volly.Request$Priority: cn.bidaround.ytcore.volly.Request$Priority valueOf(java.lang.String)
+cn.bidaround.ytcore.wxapi.WXEntryActivity
+cn.bidaround.ytcore.wxapi.WXEntryActivity: WXEntryActivity()
+com.app.App
+com.app.App: App()
+com.app.App: App(android.content.Context)
+com.bidaround.point.R$drawable: int ic_launcher
+com.bidaround.point.R$string: int app_name
+com.bidaround.point.R$style: int AppBaseTheme
+com.bidaround.point.R$style: int AppTheme
+com.chery.wupin.R$anim: int popup_anim_in
+com.chery.wupin.R$anim: int popup_anim_out
+com.chery.wupin.R$anim: int push_left_in
+com.chery.wupin.R$anim: int push_left_ins
+com.chery.wupin.R$anim: int push_left_out
+com.chery.wupin.R$anim: int push_left_outs
+com.chery.wupin.R$anim: int push_right_in
+com.chery.wupin.R$anim: int push_right_out
+com.chery.wupin.R$anim: int push_top_in
+com.chery.wupin.R$anim: int push_top_out
+com.chery.wupin.R$anim: int yt_sharepopup_fade_in
+com.chery.wupin.R$anim: int yt_sharepopup_fade_in_fast
+com.chery.wupin.R$anim: int yt_sharepopup_fade_out
+com.chery.wupin.R$anim: int yt_sharepopup_fade_out_fast
+com.chery.wupin.R$array: int objtype
+com.chery.wupin.R$array: int ownertype
+com.chery.wupin.R$array: int places
+com.chery.wupin.R$attr: int aspect
+com.chery.wupin.R$attr: int behindOffset
+com.chery.wupin.R$attr: int behindScrollScale
+com.chery.wupin.R$attr: int behindWidth
+com.chery.wupin.R$attr: int fadeDegree
+com.chery.wupin.R$attr: int fadeEnabled
+com.chery.wupin.R$attr: int mode
+com.chery.wupin.R$attr: int selectorDrawable
+com.chery.wupin.R$attr: int selectorEnabled
+com.chery.wupin.R$attr: int shadowDrawable
+com.chery.wupin.R$attr: int shadowWidth
+com.chery.wupin.R$attr: int touchModeAbove
+com.chery.wupin.R$attr: int touchModeBehind
+com.chery.wupin.R$attr: int viewAbove
+com.chery.wupin.R$attr: int viewBehind
+com.chery.wupin.R$color: int dark_gray
+com.chery.wupin.R$color: int dark_green
+com.chery.wupin.R$color: int half_transparent
+com.chery.wupin.R$color: int light_gray
+com.chery.wupin.R$color: int light_green
+com.chery.wupin.R$color: int light_greens
+com.chery.wupin.R$color: int qianhui
+com.chery.wupin.R$color: int text_normal
+com.chery.wupin.R$color: int white
+com.chery.wupin.R$color: int yt_black
+com.chery.wupin.R$color: int yt_blue
+com.chery.wupin.R$color: int yt_cap_blue
+com.chery.wupin.R$color: int yt_cap_blue_green
+com.chery.wupin.R$color: int yt_cap_gray
+com.chery.wupin.R$color: int yt_cap_green
+com.chery.wupin.R$color: int yt_cap_orange
+com.chery.wupin.R$color: int yt_cap_red
+com.chery.wupin.R$color: int yt_cap_yellow
+com.chery.wupin.R$color: int yt_qrcode_blue
+com.chery.wupin.R$dimen: int activity_horizontal_margin
+com.chery.wupin.R$dimen: int activity_vertical_margin
+com.chery.wupin.R$dimen: int ad_height
+com.chery.wupin.R$dimen: int behind_list_height
+com.chery.wupin.R$dimen: int behind_list_text_size
+com.chery.wupin.R$dimen: int behind_width
+com.chery.wupin.R$dimen: int bottom_button_height
+com.chery.wupin.R$dimen: int details_bottom_height
+com.chery.wupin.R$dimen: int list_margin_height
+com.chery.wupin.R$dimen: int list_padding
+com.chery.wupin.R$dimen: int popupWindow_margin
+com.chery.wupin.R$dimen: int popupWindow_width
+com.chery.wupin.R$dimen: int shadow_width
+com.chery.wupin.R$dimen: int slidingmenu_offset
+com.chery.wupin.R$dimen: int title_button_height
+com.chery.wupin.R$dimen: int title_height
+com.chery.wupin.R$dimen: int title_rightButton_padding
+com.chery.wupin.R$dimen: int title_text_size
+com.chery.wupin.R$dimen: int user_alert_size
+com.chery.wupin.R$dimen: int user_bind_height
+com.chery.wupin.R$dimen: int user_icon_height
+com.chery.wupin.R$dimen: int user_linear_height
+com.chery.wupin.R$dimen: int user_title_size
+com.chery.wupin.R$drawable: int abc_ic_ab_back_holo_dark
+com.chery.wupin.R$drawable: int abc_ic_cab_done_holo_dark
+com.chery.wupin.R$drawable: int abc_spinner_ab_default_holo_dark
+com.chery.wupin.R$drawable: int abc_tab_selected_pressed_holo
+com.chery.wupin.R$drawable: int add_btn
+com.chery.wupin.R$drawable: int back_btn
+com.chery.wupin.R$drawable: int bg
+com.chery.wupin.R$drawable: int bg1
+com.chery.wupin.R$drawable: int bg_input
+com.chery.wupin.R$drawable: int bg_pattern_loding
+com.chery.wupin.R$drawable: int big
+com.chery.wupin.R$drawable: int blue_place
+com.chery.wupin.R$drawable: int bottom_census
+com.chery.wupin.R$drawable: int bottom_classify
+com.chery.wupin.R$drawable: int bottom_delete
+com.chery.wupin.R$drawable: int bottom_more
+com.chery.wupin.R$drawable: int btn
+com.chery.wupin.R$drawable: int btn_circle_disable
+com.chery.wupin.R$drawable: int btn_circle_disable_focused
+com.chery.wupin.R$drawable: int btn_circle_normal
+com.chery.wupin.R$drawable: int btn_circle_pressed
+com.chery.wupin.R$drawable: int btn_circle_selected
+com.chery.wupin.R$drawable: int btn_code_lock_default
+com.chery.wupin.R$drawable: int btn_code_lock_default_holo
+com.chery.wupin.R$drawable: int btn_code_lock_touched
+com.chery.wupin.R$drawable: int btn_code_lock_touched_holo
+com.chery.wupin.R$drawable: int btn_code_touched
+com.chery.wupin.R$drawable: int btn_paging_left_normal
+com.chery.wupin.R$drawable: int btn_paging_left_pressde
+com.chery.wupin.R$drawable: int btn_paging_middle_normal
+com.chery.wupin.R$drawable: int btn_paging_middle_pressde
+com.chery.wupin.R$drawable: int btn_paging_right_normal
+com.chery.wupin.R$drawable: int btn_paging_right_pressed
+com.chery.wupin.R$drawable: int btn_record_normal
+com.chery.wupin.R$drawable: int btn_record_pressed
+com.chery.wupin.R$drawable: int btn_selector
+com.chery.wupin.R$drawable: int btn_shopping_disable
+com.chery.wupin.R$drawable: int btn_shopping_normal
+com.chery.wupin.R$drawable: int btns
+com.chery.wupin.R$drawable: int bule
+com.chery.wupin.R$drawable: int bule_classify
+com.chery.wupin.R$drawable: int bule_delete
+com.chery.wupin.R$drawable: int bule_password
+com.chery.wupin.R$drawable: int cicle_hui
+com.chery.wupin.R$drawable: int cicle_white
+com.chery.wupin.R$drawable: int common_list_item_arrow
+com.chery.wupin.R$drawable: int common_title_btn_arrow_left
+com.chery.wupin.R$drawable: int dark_green
+com.chery.wupin.R$drawable: int darkgreen_classify
+com.chery.wupin.R$drawable: int darkgreen_place
+com.chery.wupin.R$drawable: int delete_btn
+com.chery.wupin.R$drawable: int delete_catagery_btn
+com.chery.wupin.R$drawable: int green
+com.chery.wupin.R$drawable: int green_classify
+com.chery.wupin.R$drawable: int green_delete
+com.chery.wupin.R$drawable: int green_place
+com.chery.wupin.R$drawable: int half_tranclent_btn
+com.chery.wupin.R$drawable: int ic_about
+com.chery.wupin.R$drawable: int ic_action_search
+com.chery.wupin.R$drawable: int ic_add_normal
+com.chery.wupin.R$drawable: int ic_add_pressed
+com.chery.wupin.R$drawable: int ic_back_normal
+com.chery.wupin.R$drawable: int ic_back_pressed
+com.chery.wupin.R$drawable: int ic_census_normal
+com.chery.wupin.R$drawable: int ic_census_pressed
+com.chery.wupin.R$drawable: int ic_classify_normal
+com.chery.wupin.R$drawable: int ic_classify_pressed
+com.chery.wupin.R$drawable: int ic_delete_normal
+com.chery.wupin.R$drawable: int ic_delete_pressed
+com.chery.wupin.R$drawable: int ic_develop_normal
+com.chery.wupin.R$drawable: int ic_forward_normal
+com.chery.wupin.R$drawable: int ic_gash_disable
+com.chery.wupin.R$drawable: int ic_gash_normal
+com.chery.wupin.R$drawable: int ic_list_delete_disable
+com.chery.wupin.R$drawable: int ic_list_delete_normal
+com.chery.wupin.R$drawable: int ic_list_edit_disable
+com.chery.wupin.R$drawable: int ic_list_edit_normal
+com.chery.wupin.R$drawable: int ic_loding
+com.chery.wupin.R$drawable: int ic_men1
+com.chery.wupin.R$drawable: int ic_men2
+com.chery.wupin.R$drawable: int ic_more_normal
+com.chery.wupin.R$drawable: int ic_more_pressed
+com.chery.wupin.R$drawable: int ic_navigation_delete_disable
+com.chery.wupin.R$drawable: int ic_navigation_delete_normal
+com.chery.wupin.R$drawable: int ic_navigation_delete_pressed
+com.chery.wupin.R$drawable: int ic_retract_normal
+com.chery.wupin.R$drawable: int ic_right_classify_normal
+com.chery.wupin.R$drawable: int ic_right_classify_pressed
+com.chery.wupin.R$drawable: int ic_right_disable
+com.chery.wupin.R$drawable: int ic_right_human_normal
+com.chery.wupin.R$drawable: int ic_right_human_pressed
+com.chery.wupin.R$drawable: int ic_right_normal
+com.chery.wupin.R$drawable: int ic_right_place_normal
+com.chery.wupin.R$drawable: int ic_right_place_pressed
+com.chery.wupin.R$drawable: int ic_right_value_normal
+com.chery.wupin.R$drawable: int ic_right_value_pressed
+com.chery.wupin.R$drawable: int ic_search_normal
+com.chery.wupin.R$drawable: int ic_search_pressed
+com.chery.wupin.R$drawable: int ic_woman1
+com.chery.wupin.R$drawable: int ic_woman2
+com.chery.wupin.R$drawable: int icon
+com.chery.wupin.R$drawable: int icon_about
+com.chery.wupin.R$drawable: int icon_action_bar_add
+com.chery.wupin.R$drawable: int icon_action_bar_more
+com.chery.wupin.R$drawable: int icon_action_bar_search
+com.chery.wupin.R$drawable: int icon_action_bar_time
+com.chery.wupin.R$drawable: int icon_budget
+com.chery.wupin.R$drawable: int icon_category
+com.chery.wupin.R$drawable: int icon_delete
+com.chery.wupin.R$drawable: int icon_feedback
+com.chery.wupin.R$drawable: int icon_member
+com.chery.wupin.R$drawable: int icon_modify
+com.chery.wupin.R$drawable: int icon_next
+com.chery.wupin.R$drawable: int icon_post
+com.chery.wupin.R$drawable: int icon_pre
+com.chery.wupin.R$drawable: int icon_project
+com.chery.wupin.R$drawable: int icon_reimburse
+com.chery.wupin.R$drawable: int icon_report
+com.chery.wupin.R$drawable: int icon_security
+com.chery.wupin.R$drawable: int icon_show_feed
+com.chery.wupin.R$drawable: int icon_trans
+com.chery.wupin.R$drawable: int icon_trans_template
+com.chery.wupin.R$drawable: int indicator_code_lock_drag_direction_green_up_holo
+com.chery.wupin.R$drawable: int indicator_code_lock_drag_direction_red_up
+com.chery.wupin.R$drawable: int indicator_code_lock_drag_direction_red_up_holo
+com.chery.wupin.R$drawable: int indicator_code_lock_point_area_default
+com.chery.wupin.R$drawable: int indicator_code_lock_point_area_default_holo
+com.chery.wupin.R$drawable: int indicator_code_lock_point_area_green
+com.chery.wupin.R$drawable: int indicator_code_lock_point_area_green_holo
+com.chery.wupin.R$drawable: int indicator_code_lock_point_area_red
+com.chery.wupin.R$drawable: int indicator_code_lock_point_area_red_holo
+com.chery.wupin.R$drawable: int indicator_code_lock_point_area_white_holo
+com.chery.wupin.R$drawable: int input
+com.chery.wupin.R$drawable: int last_year_btn
+com.chery.wupin.R$drawable: int list_about
+com.chery.wupin.R$drawable: int list_classify
+com.chery.wupin.R$drawable: int list_human
+com.chery.wupin.R$drawable: int list_message
+com.chery.wupin.R$drawable: int list_password
+com.chery.wupin.R$drawable: int list_place
+com.chery.wupin.R$drawable: int list_share
+com.chery.wupin.R$drawable: int login_cancel_new
+com.chery.wupin.R$drawable: int login_dologin_new
+com.chery.wupin.R$drawable: int login_password_bg
+com.chery.wupin.R$drawable: int logo_loding
+com.chery.wupin.R$drawable: int logo_tui_108
+com.chery.wupin.R$drawable: int main_add_expense_quickly_new_normal
+com.chery.wupin.R$drawable: int main_add_expense_quickly_new_selected
+com.chery.wupin.R$drawable: int main_top_month_report_bg
+com.chery.wupin.R$drawable: int middle_btn
+com.chery.wupin.R$drawable: int mm_title_back_focused
+com.chery.wupin.R$drawable: int mm_title_back_normal
+com.chery.wupin.R$drawable: int mm_title_back_pressed
+com.chery.wupin.R$drawable: int mmtitle_bg_alpha
+com.chery.wupin.R$drawable: int modify_btn
+com.chery.wupin.R$drawable: int nav_setting
+com.chery.wupin.R$drawable: int nextyear_btn
+com.chery.wupin.R$drawable: int progressbar
+com.chery.wupin.R$drawable: int qqact
+com.chery.wupin.R$drawable: int record_selector
+com.chery.wupin.R$drawable: int report_tab_list
+com.chery.wupin.R$drawable: int report_tab_pie
+com.chery.wupin.R$drawable: int right_classify
+com.chery.wupin.R$drawable: int right_number
+com.chery.wupin.R$drawable: int right_place
+com.chery.wupin.R$drawable: int right_price
+com.chery.wupin.R$drawable: int search_btn
+com.chery.wupin.R$drawable: int searchbox
+com.chery.wupin.R$drawable: int serch_box
+com.chery.wupin.R$drawable: int shape_btn
+com.chery.wupin.R$drawable: int shape_record
+com.chery.wupin.R$drawable: int share_with_friend
+com.chery.wupin.R$drawable: int slidingmenu_shadow
+com.chery.wupin.R$drawable: int small
+com.chery.wupin.R$drawable: int sp_seekbar_img
+com.chery.wupin.R$drawable: int splash_screen_bg_src
+com.chery.wupin.R$drawable: int spthumb
+com.chery.wupin.R$drawable: int suite_info_bg_pattern
+com.chery.wupin.R$drawable: int suite_info_delete_btn_normal
+com.chery.wupin.R$drawable: int sync_progress_close
+com.chery.wupin.R$drawable: int tengxunact
+com.chery.wupin.R$drawable: int text_selector
+com.chery.wupin.R$drawable: int widget_icon_detail
+com.chery.wupin.R$drawable: int widget_icon_switch_off
+com.chery.wupin.R$drawable: int widget_icon_switch_on
+com.chery.wupin.R$drawable: int xinlangact
+com.chery.wupin.R$drawable: int yellow
+com.chery.wupin.R$drawable: int yellow_classify
+com.chery.wupin.R$drawable: int yellow_delete
+com.chery.wupin.R$drawable: int yellow_place
+com.chery.wupin.R$drawable: int yt_btn_style_alert_dialog_cancel_normal
+com.chery.wupin.R$drawable: int yt_button
+com.chery.wupin.R$drawable: int yt_colorchoose_blue
+com.chery.wupin.R$drawable: int yt_colorchoose_blue_green
+com.chery.wupin.R$drawable: int yt_colorchoose_gray
+com.chery.wupin.R$drawable: int yt_colorchoose_green
+com.chery.wupin.R$drawable: int yt_colorchoose_orange
+com.chery.wupin.R$drawable: int yt_colorchoose_red
+com.chery.wupin.R$drawable: int yt_colorchoose_yellow
+com.chery.wupin.R$drawable: int yt_demo
+com.chery.wupin.R$drawable: int yt_erweimaact
+com.chery.wupin.R$drawable: int yt_evernote
+com.chery.wupin.R$drawable: int yt_facebook
+com.chery.wupin.R$drawable: int yt_guide_dot_black
+com.chery.wupin.R$drawable: int yt_guide_dot_white
+com.chery.wupin.R$drawable: int yt_kaixinw
+com.chery.wupin.R$drawable: int yt_left_arrow
+com.chery.wupin.R$drawable: int yt_lianjieact
+com.chery.wupin.R$drawable: int yt_list_item_unselected_color_border
+com.chery.wupin.R$drawable: int yt_list_newmessage
+com.chery.wupin.R$drawable: int yt_loadfail
+com.chery.wupin.R$drawable: int yt_mailact
+com.chery.wupin.R$drawable: int yt_messact
+com.chery.wupin.R$drawable: int yt_more
+com.chery.wupin.R$drawable: int yt_pyqact
+com.chery.wupin.R$drawable: int yt_qqact
+com.chery.wupin.R$drawable: int yt_qqkjact
+com.chery.wupin.R$drawable: int yt_reddot
+com.chery.wupin.R$drawable: int yt_renrenact
+com.chery.wupin.R$drawable: int yt_screencap_cancel
+com.chery.wupin.R$drawable: int yt_screencap_circle_middle_off
+com.chery.wupin.R$drawable: int yt_screencap_circle_middle_on
+com.chery.wupin.R$drawable: int yt_screencap_circle_small_off
+com.chery.wupin.R$drawable: int yt_screencap_circle_small_on
+com.chery.wupin.R$drawable: int yt_screencap_pencil_off
+com.chery.wupin.R$drawable: int yt_screencap_pencil_on
+com.chery.wupin.R$drawable: int yt_screencap_rectangle_off
+com.chery.wupin.R$drawable: int yt_screencap_rectangle_on
+com.chery.wupin.R$drawable: int yt_screencap_save
+com.chery.wupin.R$drawable: int yt_sendbutton
+com.chery.wupin.R$drawable: int yt_side
+com.chery.wupin.R$drawable: int yt_tengxunact
+com.chery.wupin.R$drawable: int yt_wechat_favorite
+com.chery.wupin.R$drawable: int yt_wxact
+com.chery.wupin.R$drawable: int yt_xinlangact
+com.chery.wupin.R$drawable: int yt_yixin
+com.chery.wupin.R$drawable: int yt_yxfs
+com.chery.wupin.R$id: int ProgressBar
+com.chery.wupin.R$id: int SecondaryProgress
+com.chery.wupin.R$id: int about
+com.chery.wupin.R$id: int add
+com.chery.wupin.R$id: int address_btn
+com.chery.wupin.R$id: int address_child
+com.chery.wupin.R$id: int address_ll
+com.chery.wupin.R$id: int address_sp
+com.chery.wupin.R$id: int back_iv
+com.chery.wupin.R$id: int back_list
+com.chery.wupin.R$id: int back_recycle
+com.chery.wupin.R$id: int back_search
+com.chery.wupin.R$id: int balckgrid_sharepoint
+com.chery.wupin.R$id: int begain_et
+com.chery.wupin.R$id: int bt_next
+com.chery.wupin.R$id: int bt_pre
+com.chery.wupin.R$id: int buy_bt
+com.chery.wupin.R$id: int buy_record_bt
+com.chery.wupin.R$id: int buy_remind
+com.chery.wupin.R$id: int buy_wait
+com.chery.wupin.R$id: int cancel_bt
+com.chery.wupin.R$id: int category_add
+com.chery.wupin.R$id: int category_delete
+com.chery.wupin.R$id: int category_el
+com.chery.wupin.R$id: int category_lv
+com.chery.wupin.R$id: int category_name
+com.chery.wupin.R$id: int catogery_btn
+com.chery.wupin.R$id: int catogery_ll
+com.chery.wupin.R$id: int catogery_rl
+com.chery.wupin.R$id: int chat_count_tv
+com.chery.wupin.R$id: int chat_ll
+com.chery.wupin.R$id: int chat_name_tv
+com.chery.wupin.R$id: int chat_num_tv
+com.chery.wupin.R$id: int chat_percent_tv
+com.chery.wupin.R$id: int child_portrait
+com.chery.wupin.R$id: int child_rl
+com.chery.wupin.R$id: int classify_right
+com.chery.wupin.R$id: int come_et
+com.chery.wupin.R$id: int come_ll
+com.chery.wupin.R$id: int comments_et
+com.chery.wupin.R$id: int compute_name_tv
+com.chery.wupin.R$id: int compute_press_iv
+com.chery.wupin.R$id: int delete
+com.chery.wupin.R$id: int delete_bt
+com.chery.wupin.R$id: int delete_ll
+com.chery.wupin.R$id: int delete_name_tv
+com.chery.wupin.R$id: int delete_rl
+com.chery.wupin.R$id: int delete_tv
+com.chery.wupin.R$id: int dialogactivity_cancel_bt
+com.chery.wupin.R$id: int dialogactivity_webview
+com.chery.wupin.R$id: int edit_et
+com.chery.wupin.R$id: int empty_recycle
+com.chery.wupin.R$id: int end_et
+com.chery.wupin.R$id: int feedback_et
+com.chery.wupin.R$id: int feedback_rl
+com.chery.wupin.R$id: int first_et
+com.chery.wupin.R$id: int flag_price_tv
+com.chery.wupin.R$id: int frameLayout1
+com.chery.wupin.R$id: int frameLayout2
+com.chery.wupin.R$id: int fullscreen
+com.chery.wupin.R$id: int grid_ll
+com.chery.wupin.R$id: int grid_lls
+com.chery.wupin.R$id: int griditem_point_tv
+com.chery.wupin.R$id: int item_recycle_iv
+com.chery.wupin.R$id: int iv_next
+com.chery.wupin.R$id: int iv_pre
+com.chery.wupin.R$id: int lanmu_gv
+com.chery.wupin.R$id: int left
+com.chery.wupin.R$id: int list_bt
+com.chery.wupin.R$id: int list_el
+com.chery.wupin.R$id: int list_ll
+com.chery.wupin.R$id: int list_tishi_tv
+com.chery.wupin.R$id: int ll
+com.chery.wupin.R$id: int lock_tv
+com.chery.wupin.R$id: int locks_tv
+com.chery.wupin.R$id: int login_sure_bt
+com.chery.wupin.R$id: int logo_imageview
+com.chery.wupin.R$id: int logo_textview
+com.chery.wupin.R$id: int lpv_lock
+com.chery.wupin.R$id: int lpvs_lock
+com.chery.wupin.R$id: int main_addpoint_bt
+com.chery.wupin.R$id: int main_givepoint_bt
+com.chery.wupin.R$id: int main_item_framelayout
+com.chery.wupin.R$id: int main_kaixinwang_imageview
+com.chery.wupin.R$id: int main_point_bt
+com.chery.wupin.R$id: int main_point_tv
+com.chery.wupin.R$id: int main_point_tv1
+com.chery.wupin.R$id: int main_point_tv2
+com.chery.wupin.R$id: int main_qq_imageview
+com.chery.wupin.R$id: int main_renn_image
+com.chery.wupin.R$id: int main_sina_imageview
+com.chery.wupin.R$id: int main_sinashare_imageview
+com.chery.wupin.R$id: int main_tencentwb_imageview
+com.chery.wupin.R$id: int main_test_bt
+com.chery.wupin.R$id: int main_whiteviewpager_bt
+com.chery.wupin.R$id: int margin
+com.chery.wupin.R$id: int member_ll
+com.chery.wupin.R$id: int member_rl
+com.chery.wupin.R$id: int mian_login_linear
+com.chery.wupin.R$id: int modify_ll
+com.chery.wupin.R$id: int month_tv
+com.chery.wupin.R$id: int more_close_tv
+com.chery.wupin.R$id: int more_iv
+com.chery.wupin.R$id: int more_ll
+com.chery.wupin.R$id: int more_lv
+com.chery.wupin.R$id: int more_manager_tv
+com.chery.wupin.R$id: int more_name_tv
+com.chery.wupin.R$id: int name
+com.chery.wupin.R$id: int name_child_tv
+com.chery.wupin.R$id: int name_et
+com.chery.wupin.R$id: int name_ll
+com.chery.wupin.R$id: int name_price_tv
+com.chery.wupin.R$id: int name_recycle_tv
+com.chery.wupin.R$id: int name_show_tv
+com.chery.wupin.R$id: int name_sliding
+com.chery.wupin.R$id: int names
+com.chery.wupin.R$id: int next_el_iv
+com.chery.wupin.R$id: int next_ll
+com.chery.wupin.R$id: int num_tv
+com.chery.wupin.R$id: int num_wait_tv
+com.chery.wupin.R$id: int number_right
+com.chery.wupin.R$id: int owner_btn
+com.chery.wupin.R$id: int owner_child
+com.chery.wupin.R$id: int owner_type
+com.chery.wupin.R$id: int pagergrid_item_framelayout
+com.chery.wupin.R$id: int password_et
+com.chery.wupin.R$id: int password_iv
+com.chery.wupin.R$id: int password_rl
+com.chery.wupin.R$id: int percent_tv
+com.chery.wupin.R$id: int place_iv
+com.chery.wupin.R$id: int place_right
+com.chery.wupin.R$id: int place_rl
+com.chery.wupin.R$id: int pointweb_back_linelay
+com.chery.wupin.R$id: int pointweb_title_text
+com.chery.wupin.R$id: int pointweb_webview
+com.chery.wupin.R$id: int popup_bt
+com.chery.wupin.R$id: int popup_list_line
+com.chery.wupin.R$id: int popup_qrcode_cancel_bt
+com.chery.wupin.R$id: int popup_qrcode_image
+com.chery.wupin.R$id: int popup_qrcode_scan
+com.chery.wupin.R$id: int popup_whiteviewpage_cancel_bt
+com.chery.wupin.R$id: int popup_whiteviewpage_indicator_linelay
+com.chery.wupin.R$id: int popup_whiteviewpage_one_iv
+com.chery.wupin.R$id: int popup_whiteviewpage_viewpager
+com.chery.wupin.R$id: int popup_whiteviewpage_zero_iv
+com.chery.wupin.R$id: int popup_whiteviewpager_header_layout
+com.chery.wupin.R$id: int popup_whiteviewpager_line
+com.chery.wupin.R$id: int popup_whiteviewpager_share_text
+com.chery.wupin.R$id: int pre_ll
+com.chery.wupin.R$id: int price_address_tv
+com.chery.wupin.R$id: int price_btn
+com.chery.wupin.R$id: int price_catogery_tv
+com.chery.wupin.R$id: int price_child_tv
+com.chery.wupin.R$id: int price_et
+com.chery.wupin.R$id: int price_ll
+com.chery.wupin.R$id: int price_owner_tv
+com.chery.wupin.R$id: int price_recycle_tv
+com.chery.wupin.R$id: int price_right
+com.chery.wupin.R$id: int price_show_tvs
+com.chery.wupin.R$id: int price_tv
+com.chery.wupin.R$id: int reason_et
+com.chery.wupin.R$id: int reason_recycle_tv
+com.chery.wupin.R$id: int reason_show_tv
+com.chery.wupin.R$id: int record_bt
+com.chery.wupin.R$id: int recover_ll
+com.chery.wupin.R$id: int recycle_iv
+com.chery.wupin.R$id: int recycle_lv
+com.chery.wupin.R$id: int recycle_rl
+com.chery.wupin.R$id: int remind_buy_tv
+com.chery.wupin.R$id: int remind_wait_tv
+com.chery.wupin.R$id: int reset_btn
+com.chery.wupin.R$id: int right
+com.chery.wupin.R$id: int save_bt
+com.chery.wupin.R$id: int save_feedback_bt
+com.chery.wupin.R$id: int save_ll
+com.chery.wupin.R$id: int search
+com.chery.wupin.R$id: int search_bt
+com.chery.wupin.R$id: int search_et
+com.chery.wupin.R$id: int search_iv
+com.chery.wupin.R$id: int search_lv
+com.chery.wupin.R$id: int searchs
+com.chery.wupin.R$id: int second_et
+com.chery.wupin.R$id: int seekbar
+com.chery.wupin.R$id: int selected_view
+com.chery.wupin.R$id: int share_rl
+com.chery.wupin.R$id: int share_viewpager
+com.chery.wupin.R$id: int shareedit_back_linelay
+com.chery.wupin.R$id: int shareedit_share_bt
+com.chery.wupin.R$id: int shareedit_sharetext_edit
+com.chery.wupin.R$id: int shareedit_sharetitle_text
+com.chery.wupin.R$id: int shareedit_title_linelay
+com.chery.wupin.R$id: int shareedit_title_text
+com.chery.wupin.R$id: int shareeidt_shareimage_image
+com.chery.wupin.R$id: int sharelist_knowaction_btn
+com.chery.wupin.R$id: int sharelist_point_linelay
+com.chery.wupin.R$id: int sharelist_selectplatform_layout
+com.chery.wupin.R$id: int sharelist_selectplatform_text
+com.chery.wupin.R$id: int sharelist_share_list
+com.chery.wupin.R$id: int sharelistitem_logo_image
+com.chery.wupin.R$id: int sharelistitem_platform_text
+com.chery.wupin.R$id: int sharelistitem_point_text
+com.chery.wupin.R$id: int sharepager_grid
+com.chery.wupin.R$id: int sharepopup_indicator_linelay
+com.chery.wupin.R$id: int sharepopup_one_iv
+com.chery.wupin.R$id: int sharepopup_two_iv
+com.chery.wupin.R$id: int sharepopup_zero_iv
+com.chery.wupin.R$id: int show_rl
+com.chery.wupin.R$id: int slidingmenumain
+com.chery.wupin.R$id: int sure_bt
+com.chery.wupin.R$id: int textView1
+com.chery.wupin.R$id: int textView2
+com.chery.wupin.R$id: int textView3
+com.chery.wupin.R$id: int time
+com.chery.wupin.R$id: int time_child_tv
+com.chery.wupin.R$id: int time_et
+com.chery.wupin.R$id: int time_iv
+com.chery.wupin.R$id: int time_ivs
+com.chery.wupin.R$id: int time_price_tv
+com.chery.wupin.R$id: int time_recycle_tv
+com.chery.wupin.R$id: int time_show_tv
+com.chery.wupin.R$id: int tishi_tv
+com.chery.wupin.R$id: int tongji_el
+com.chery.wupin.R$id: int tongji_ll
+com.chery.wupin.R$id: int tongji_lv
+com.chery.wupin.R$id: int tongji_tv
+com.chery.wupin.R$id: int top_add
+com.chery.wupin.R$id: int top_name
+com.chery.wupin.R$id: int top_rl
+com.chery.wupin.R$id: int tv1
+com.chery.wupin.R$id: int tv2
+com.chery.wupin.R$id: int tv3
+com.chery.wupin.R$id: int tv4
+com.chery.wupin.R$id: int tvLogin
+com.chery.wupin.R$id: int tvLogins
+com.chery.wupin.R$id: int tv_next
+com.chery.wupin.R$id: int tv_pre
+com.chery.wupin.R$id: int tvs
+com.chery.wupin.R$id: int type_et
+com.chery.wupin.R$id: int type_recycle_tv
+com.chery.wupin.R$id: int type_show_tv
+com.chery.wupin.R$id: int user_image
+com.chery.wupin.R$id: int user_text1
+com.chery.wupin.R$id: int user_text2
+com.chery.wupin.R$id: int user_text3
+com.chery.wupin.R$id: int user_text4
+com.chery.wupin.R$id: int view
+com.chery.wupin.R$id: int view1
+com.chery.wupin.R$id: int wechat_favorite
+com.chery.wupin.R$id: int weixinlogin
+com.chery.wupin.R$id: int welcome_ll
+com.chery.wupin.R$id: int welcome_rl
+com.chery.wupin.R$id: int where_ll
+com.chery.wupin.R$id: int where_show_tv
+com.chery.wupin.R$id: int whitegrid_bt
+com.chery.wupin.R$id: int whitepagergrid_item_framelayout
+com.chery.wupin.R$id: int whitepagergrid_logo_imageview
+com.chery.wupin.R$id: int whitepagergrid_logo_textview
+com.chery.wupin.R$id: int whitepagergrid_point_tv
+com.chery.wupin.R$id: int whitepagergrid_sharepoint
+com.chery.wupin.R$id: int year_tv
+com.chery.wupin.R$id: int yt_blackpopup_header_layout
+com.chery.wupin.R$id: int yt_blackpopup_screencap_text
+com.chery.wupin.R$id: int yt_listpopup_screencap_text
+com.chery.wupin.R$id: int yt_screen_drawline
+com.chery.wupin.R$id: int yt_screen_drawrect
+com.chery.wupin.R$id: int yt_screencap_back_linelay
+com.chery.wupin.R$id: int yt_screencap_bottom_layout
+com.chery.wupin.R$id: int yt_screencap_choose_color
+com.chery.wupin.R$id: int yt_screencap_choose_color_image
+com.chery.wupin.R$id: int yt_screencap_choose_color_text
+com.chery.wupin.R$id: int yt_screencap_choose_paintwidth
+com.chery.wupin.R$id: int yt_screencap_choose_paintwidth_image
+com.chery.wupin.R$id: int yt_screencap_choose_paintwidth_text
+com.chery.wupin.R$id: int yt_screencap_clear
+com.chery.wupin.R$id: int yt_screencap_clear_text
+com.chery.wupin.R$id: int yt_screencap_drawline_image
+com.chery.wupin.R$id: int yt_screencap_drawline_text
+com.chery.wupin.R$id: int yt_screencap_drawrect_image
+com.chery.wupin.R$id: int yt_screencap_drawrect_text
+com.chery.wupin.R$id: int yt_screencap_header_layout
+com.chery.wupin.R$id: int yt_screencap_image
+com.chery.wupin.R$id: int yt_screencap_save
+com.chery.wupin.R$id: int yt_screencap_save_text
+com.chery.wupin.R$id: int yt_screencap_share_bt
+com.chery.wupin.R$id: int yt_whiteviewpager_screencap_text
+com.chery.wupin.R$id: int zongjia_tv
+com.chery.wupin.R$id: int zongjia_wait_tv
+com.chery.wupin.R$integer: int num_cols
+com.chery.wupin.R$layout: int about
+com.chery.wupin.R$layout: int activity_main
+com.chery.wupin.R$layout: int behind_slidingmenu
+com.chery.wupin.R$layout: int bottom_bar
+com.chery.wupin.R$layout: int category_manager
+com.chery.wupin.R$layout: int chat
+com.chery.wupin.R$layout: int delete
+com.chery.wupin.R$layout: int edit
+com.chery.wupin.R$layout: int feedback
+com.chery.wupin.R$layout: int item_category
+com.chery.wupin.R$layout: int item_chat
+com.chery.wupin.R$layout: int item_chat1
+com.chery.wupin.R$layout: int item_child
+com.chery.wupin.R$layout: int item_grid
+com.chery.wupin.R$layout: int item_group
+com.chery.wupin.R$layout: int item_more
+com.chery.wupin.R$layout: int item_price
+com.chery.wupin.R$layout: int item_recycle
+com.chery.wupin.R$layout: int item_recycle1
+com.chery.wupin.R$layout: int item_show
+com.chery.wupin.R$layout: int list
+com.chery.wupin.R$layout: int list1
+com.chery.wupin.R$layout: int lock
+com.chery.wupin.R$layout: int login
+com.chery.wupin.R$layout: int login_chat
+com.chery.wupin.R$layout: int main
+com.chery.wupin.R$layout: int main1
+com.chery.wupin.R$layout: int more
+com.chery.wupin.R$layout: int password
+com.chery.wupin.R$layout: int popup
+com.chery.wupin.R$layout: int popup_catogery
+com.chery.wupin.R$layout: int popup_compute
+com.chery.wupin.R$layout: int record
+com.chery.wupin.R$layout: int recycle
+com.chery.wupin.R$layout: int search
+com.chery.wupin.R$layout: int security
+com.chery.wupin.R$layout: int show
+com.chery.wupin.R$layout: int slidingmenumain
+com.chery.wupin.R$layout: int tongji
+com.chery.wupin.R$layout: int tongji_seekbar
+com.chery.wupin.R$layout: int tongji_seekbar1
+com.chery.wupin.R$layout: int top
+com.chery.wupin.R$layout: int top_bar
+com.chery.wupin.R$layout: int topbar_list
+com.chery.wupin.R$layout: int topbar_list1
+com.chery.wupin.R$layout: int view
+com.chery.wupin.R$layout: int welcome
+com.chery.wupin.R$layout: int yt_activity_dialog
+com.chery.wupin.R$layout: int yt_activity_main
+com.chery.wupin.R$layout: int yt_activity_screencapedit
+com.chery.wupin.R$layout: int yt_activity_shareedit
+com.chery.wupin.R$layout: int yt_activity_uesr
+com.chery.wupin.R$layout: int yt_pagergrid_item
+com.chery.wupin.R$layout: int yt_point_webview
+com.chery.wupin.R$layout: int yt_popup_list
+com.chery.wupin.R$layout: int yt_popup_qrcode
+com.chery.wupin.R$layout: int yt_popup_viewpager
+com.chery.wupin.R$layout: int yt_popup_whiteviewpager
+com.chery.wupin.R$layout: int yt_share_pager
+com.chery.wupin.R$layout: int yt_sharelist_item
+com.chery.wupin.R$layout: int yt_whiteviewpager_grid_item
+com.chery.wupin.R$string: int about_text
+com.chery.wupin.R$string: int action_settings
+com.chery.wupin.R$string: int app_name
+com.chery.wupin.R$string: int hello
+com.chery.wupin.R$string: int hello_world
+com.chery.wupin.R$string: int lockscreen_access_pattern_cell_added
+com.chery.wupin.R$string: int lockscreen_access_pattern_cleared
+com.chery.wupin.R$string: int lockscreen_access_pattern_detected
+com.chery.wupin.R$string: int lockscreen_access_pattern_start
+com.chery.wupin.R$string: int youtui_appId
+com.chery.wupin.R$string: int yt_authcancel
+com.chery.wupin.R$string: int yt_authfailed
+com.chery.wupin.R$string: int yt_authing
+com.chery.wupin.R$string: int yt_authlogincancel
+com.chery.wupin.R$string: int yt_authsuccess
+com.chery.wupin.R$string: int yt_cancel
+com.chery.wupin.R$string: int yt_chooseemail
+com.chery.wupin.R$string: int yt_connecterror
+com.chery.wupin.R$string: int yt_copyfail
+com.chery.wupin.R$string: int yt_copylink
+com.chery.wupin.R$string: int yt_copysuccess
+com.chery.wupin.R$string: int yt_description
+com.chery.wupin.R$string: int yt_email
+com.chery.wupin.R$string: int yt_evernote
+com.chery.wupin.R$string: int yt_getsharecontent_fail
+com.chery.wupin.R$string: int yt_kaixin
+com.chery.wupin.R$string: int yt_loading
+com.chery.wupin.R$string: int yt_logincancel
+com.chery.wupin.R$string: int yt_loginsuccess
+com.chery.wupin.R$string: int yt_man
+com.chery.wupin.R$string: int yt_more
+com.chery.wupin.R$string: int yt_nokaixin
+com.chery.wupin.R$string: int yt_nonetwork
+com.chery.wupin.R$string: int yt_nopic
+com.chery.wupin.R$string: int yt_noqqclient
+com.chery.wupin.R$string: int yt_norennclient
+com.chery.wupin.R$string: int yt_notargeturl
+com.chery.wupin.R$string: int yt_nowechatclient
+com.chery.wupin.R$string: int yt_noyixinclient
+com.chery.wupin.R$string: int yt_pointcharge
+com.chery.wupin.R$string: int yt_qrcode
+com.chery.wupin.R$string: int yt_qzone
+com.chery.wupin.R$string: int yt_reauth
+com.chery.wupin.R$string: int yt_reconnect
+com.chery.wupin.R$string: int yt_renn
+com.chery.wupin.R$string: int yt_savecap
+com.chery.wupin.R$string: int yt_screencap
+com.chery.wupin.R$string: int yt_share
+com.chery.wupin.R$string: int yt_share_fail
+com.chery.wupin.R$string: int yt_share_suc
+com.chery.wupin.R$string: int yt_shareing
+com.chery.wupin.R$string: int yt_sharepic
+com.chery.wupin.R$string: int yt_shortmessage
+com.chery.wupin.R$string: int yt_sinaweibo
+com.chery.wupin.R$string: int yt_teccentweibo
+com.chery.wupin.R$string: int yt_tencentweibo
+com.chery.wupin.R$string: int yt_unknownfilesize
+com.chery.wupin.R$string: int yt_wechat
+com.chery.wupin.R$string: int yt_wechatfavorite
+com.chery.wupin.R$string: int yt_wechatmoments
+com.chery.wupin.R$string: int yt_woman
+com.chery.wupin.R$string: int yt_yixin
+com.chery.wupin.R$string: int yt_yixinfs
+com.chery.wupin.R$style: int AppBaseTheme
+com.chery.wupin.R$style: int AppTheme
+com.chery.wupin.R$style: int MyDialogStyle
+com.chery.wupin.R$style: int YtDialogTheme
+com.chery.wupin.R$style: int YtSharePopupAnim
+com.chery.wupin.R$style: int YtSharePopupAnimFast
+com.chery.wupin.R$style: int content_tv_stytle
+com.chery.wupin.R$style: int title_tv_stytle
+com.chery.wupin.R$styleable: int[] LockPatternView
+com.chery.wupin.R$styleable: int LockPatternView_aspect
+com.chery.wupin.R$styleable: int[] SlidingMenu
+com.chery.wupin.R$styleable: int SlidingMenu_behindOffset
+com.chery.wupin.R$styleable: int SlidingMenu_behindScrollScale
+com.chery.wupin.R$styleable: int SlidingMenu_behindWidth
+com.chery.wupin.R$styleable: int SlidingMenu_fadeDegree
+com.chery.wupin.R$styleable: int SlidingMenu_fadeEnabled
+com.chery.wupin.R$styleable: int SlidingMenu_mode
+com.chery.wupin.R$styleable: int SlidingMenu_selectorDrawable
+com.chery.wupin.R$styleable: int SlidingMenu_selectorEnabled
+com.chery.wupin.R$styleable: int SlidingMenu_shadowDrawable
+com.chery.wupin.R$styleable: int SlidingMenu_shadowWidth
+com.chery.wupin.R$styleable: int SlidingMenu_touchModeAbove
+com.chery.wupin.R$styleable: int SlidingMenu_touchModeBehind
+com.chery.wupin.R$styleable: int SlidingMenu_viewAbove
+com.chery.wupin.R$styleable: int SlidingMenu_viewBehind
+com.chery.wupin.activity.AboutActivity
+com.chery.wupin.activity.AboutActivity: AboutActivity()
+com.chery.wupin.activity.CategoryActivity
+com.chery.wupin.activity.CategoryActivity: CategoryActivity()
+com.chery.wupin.activity.CategoryActivity: void onClick(android.view.View)
+com.chery.wupin.activity.ChatActivity
+com.chery.wupin.activity.ChatActivity: ChatActivity()
+com.chery.wupin.activity.ChatActivity: void onClick(android.view.View)
+com.chery.wupin.activity.ComputActivity
+com.chery.wupin.activity.ComputActivity: ComputActivity()
+com.chery.wupin.activity.DeleteActivity
+com.chery.wupin.activity.DeleteActivity: DeleteActivity()
+com.chery.wupin.activity.EditActivity
+com.chery.wupin.activity.EditActivity: EditActivity()
+com.chery.wupin.activity.FeedbackActivity
+com.chery.wupin.activity.FeedbackActivity: FeedbackActivity()
+com.chery.wupin.activity.ListsActivity
+com.chery.wupin.activity.ListsActivity: ListsActivity()
+com.chery.wupin.activity.LockActivity
+com.chery.wupin.activity.LockActivity: LockActivity()
+com.chery.wupin.activity.LockActivity: void onClick(android.view.View)
+com.chery.wupin.activity.LoginActivity
+com.chery.wupin.activity.LoginActivity: LoginActivity()
+com.chery.wupin.activity.MainActivity
+com.chery.wupin.activity.MainActivity: MainActivity()
+com.chery.wupin.activity.MainActivity: void onClick(android.view.View)
+com.chery.wupin.activity.MoreActivity
+com.chery.wupin.activity.MoreActivity: MoreActivity()
+com.chery.wupin.activity.PasswordActivity
+com.chery.wupin.activity.PasswordActivity: PasswordActivity()
+com.chery.wupin.activity.PriceActitivy
+com.chery.wupin.activity.PriceActitivy1
+com.chery.wupin.activity.PriceActitivy1: PriceActitivy1()
+com.chery.wupin.activity.RecordActivity
+com.chery.wupin.activity.RecordActivity: RecordActivity()
+com.chery.wupin.activity.RecordActivity: void onClick(android.view.View)
+com.chery.wupin.activity.RecycleActivity
+com.chery.wupin.activity.RecycleActivity: RecycleActivity()
+com.chery.wupin.activity.SearchActivity
+com.chery.wupin.activity.SearchActivity: SearchActivity()
+com.chery.wupin.activity.SecurityActivity
+com.chery.wupin.activity.SecurityActivity: SecurityActivity()
+com.chery.wupin.activity.WelcomeActivity
+com.chery.wupin.activity.WelcomeActivity: WelcomeActivity()
+com.chery.wupin.base.BaseFragmentActivity
+com.chery.wupin.base.BaseFragmentActivity: BaseFragmentActivity()
+com.chery.wupin.base.BaseSlidingFragmentActivity
+com.chery.wupin.base.BaseSlidingFragmentActivity: BaseSlidingFragmentActivity()
+com.chery.wupin.base.BaseSlidingFragmentActivity: void setContentView(android.view.View)
+com.chery.wupin.base.BaseSlidingFragmentActivity: void setBehindContentView(android.view.View)
+com.chery.wupin.slidingmenu.CustomViewAbove: void setCurrentItem(int)
+com.chery.wupin.slidingmenu.CustomViewAbove: int getCurrentItem()
+com.chery.wupin.slidingmenu.CustomViewAbove: void setOnPageChangeListener(com.chery.wupin.slidingmenu.CustomViewAbove$OnPageChangeListener)
+com.chery.wupin.slidingmenu.CustomViewAbove: void setOnOpenedListener(com.chery.wupin.slidingmenu.SlidingMenu$OnOpenedListener)
+com.chery.wupin.slidingmenu.CustomViewAbove: void setOnClosedListener(com.chery.wupin.slidingmenu.SlidingMenu$OnClosedListener)
+com.chery.wupin.slidingmenu.CustomViewAbove: int getLeftBound()
+com.chery.wupin.slidingmenu.CustomViewAbove: int getRightBound()
+com.chery.wupin.slidingmenu.CustomViewAbove: int getContentLeft()
+com.chery.wupin.slidingmenu.CustomViewAbove: int getBehindWidth()
+com.chery.wupin.slidingmenu.CustomViewAbove: void setSlidingEnabled(boolean)
+com.chery.wupin.slidingmenu.CustomViewAbove: void setContent(android.view.View)
+com.chery.wupin.slidingmenu.CustomViewAbove: android.view.View getContent()
+com.chery.wupin.slidingmenu.CustomViewAbove: void setCustomViewBehind(com.chery.wupin.slidingmenu.CustomViewBehind)
+com.chery.wupin.slidingmenu.CustomViewAbove: void setAboveOffset(int)
+com.chery.wupin.slidingmenu.CustomViewAbove: void setTouchMode(int)
+com.chery.wupin.slidingmenu.CustomViewAbove: int getTouchMode()
+com.chery.wupin.slidingmenu.CustomViewAbove: float getPercentOpen()
+com.chery.wupin.slidingmenu.CustomViewAbove: void setScrollingCacheEnabled(boolean)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setCustomViewAbove(com.chery.wupin.slidingmenu.CustomViewAbove)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setCanvasTransformer(com.chery.wupin.slidingmenu.SlidingMenu$CanvasTransformer)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setWidthOffset(int)
+com.chery.wupin.slidingmenu.CustomViewBehind: int getBehindWidth()
+com.chery.wupin.slidingmenu.CustomViewBehind: void setContent(android.view.View)
+com.chery.wupin.slidingmenu.CustomViewBehind: android.view.View getContent()
+com.chery.wupin.slidingmenu.CustomViewBehind: void setSecondaryContent(android.view.View)
+com.chery.wupin.slidingmenu.CustomViewBehind: android.view.View getSecondaryContent()
+com.chery.wupin.slidingmenu.CustomViewBehind: void setChildrenEnabled(boolean)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setMode(int)
+com.chery.wupin.slidingmenu.CustomViewBehind: int getMode()
+com.chery.wupin.slidingmenu.CustomViewBehind: void setScrollScale(float)
+com.chery.wupin.slidingmenu.CustomViewBehind: float getScrollScale()
+com.chery.wupin.slidingmenu.CustomViewBehind: void setShadowDrawable(android.graphics.drawable.Drawable)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setSecondaryShadowDrawable(android.graphics.drawable.Drawable)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setShadowWidth(int)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setFadeEnabled(boolean)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setFadeDegree(float)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setTouchMode(int)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setSelectorEnabled(boolean)
+com.chery.wupin.slidingmenu.CustomViewBehind: void setSelectedView(android.view.View)
+com.chery.wupin.slidingmenu.CustomViewBehind: int getSelectorTop()
+com.chery.wupin.slidingmenu.CustomViewBehind: void setSelectorBitmap(android.graphics.Bitmap)
+com.chery.wupin.slidingmenu.SlidingMenu
+com.chery.wupin.slidingmenu.SlidingMenu: SlidingMenu(android.content.Context)
+com.chery.wupin.slidingmenu.SlidingMenu: SlidingMenu(android.app.Activity,int)
+com.chery.wupin.slidingmenu.SlidingMenu: SlidingMenu(android.content.Context,android.util.AttributeSet)
+com.chery.wupin.slidingmenu.SlidingMenu: SlidingMenu(android.content.Context,android.util.AttributeSet,int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setContent(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setContent(android.view.View)
+com.chery.wupin.slidingmenu.SlidingMenu: android.view.View getContent()
+com.chery.wupin.slidingmenu.SlidingMenu: void setMenu(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setMenu(android.view.View)
+com.chery.wupin.slidingmenu.SlidingMenu: android.view.View getMenu()
+com.chery.wupin.slidingmenu.SlidingMenu: void setSecondaryMenu(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setSecondaryMenu(android.view.View)
+com.chery.wupin.slidingmenu.SlidingMenu: android.view.View getSecondaryMenu()
+com.chery.wupin.slidingmenu.SlidingMenu: void setSlidingEnabled(boolean)
+com.chery.wupin.slidingmenu.SlidingMenu: void setMode(int)
+com.chery.wupin.slidingmenu.SlidingMenu: int getMode()
+com.chery.wupin.slidingmenu.SlidingMenu: void setStatic(boolean)
+com.chery.wupin.slidingmenu.SlidingMenu: int getBehindOffset()
+com.chery.wupin.slidingmenu.SlidingMenu: void setBehindOffset(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setBehindOffsetRes(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setAboveOffset(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setAboveOffsetRes(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setBehindWidth(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setBehindWidthRes(int)
+com.chery.wupin.slidingmenu.SlidingMenu: float getBehindScrollScale()
+com.chery.wupin.slidingmenu.SlidingMenu: void setBehindScrollScale(float)
+com.chery.wupin.slidingmenu.SlidingMenu: void setBehindCanvasTransformer(com.chery.wupin.slidingmenu.SlidingMenu$CanvasTransformer)
+com.chery.wupin.slidingmenu.SlidingMenu: int getTouchModeAbove()
+com.chery.wupin.slidingmenu.SlidingMenu: void setTouchModeAbove(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setTouchModeBehind(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setShadowDrawable(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setShadowDrawable(android.graphics.drawable.Drawable)
+com.chery.wupin.slidingmenu.SlidingMenu: void setSecondaryShadowDrawable(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setSecondaryShadowDrawable(android.graphics.drawable.Drawable)
+com.chery.wupin.slidingmenu.SlidingMenu: void setShadowWidthRes(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setShadowWidth(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setFadeEnabled(boolean)
+com.chery.wupin.slidingmenu.SlidingMenu: void setFadeDegree(float)
+com.chery.wupin.slidingmenu.SlidingMenu: void setSelectorEnabled(boolean)
+com.chery.wupin.slidingmenu.SlidingMenu: void setSelectedView(android.view.View)
+com.chery.wupin.slidingmenu.SlidingMenu: void setSelectorDrawable(int)
+com.chery.wupin.slidingmenu.SlidingMenu: void setSelectorBitmap(android.graphics.Bitmap)
+com.chery.wupin.slidingmenu.SlidingMenu: void setOnOpenListener(com.chery.wupin.slidingmenu.SlidingMenu$OnOpenListener)
+com.chery.wupin.slidingmenu.SlidingMenu: void setOnCloseListener(com.chery.wupin.slidingmenu.SlidingMenu$OnCloseListener)
+com.chery.wupin.slidingmenu.SlidingMenu: void setOnOpenedListener(com.chery.wupin.slidingmenu.SlidingMenu$OnOpenedListener)
+com.chery.wupin.slidingmenu.SlidingMenu: void setOnClosedListener(com.chery.wupin.slidingmenu.SlidingMenu$OnClosedListener)
+com.chery.wupin.slidingmenu.SlidingMenu$SavedState
+com.chery.wupin.slidingmenu.SlidingMenu$SavedState: android.os.Parcelable$Creator CREATOR
+com.chery.wupin.view.LinearLayoutForListView
+com.chery.wupin.view.LinearLayoutForListView: LinearLayoutForListView(android.content.Context)
+com.chery.wupin.view.LinearLayoutForListView: LinearLayoutForListView(android.content.Context,android.util.AttributeSet)
+com.chery.wupin.view.LinearLayoutForListView: com.chery.wupin.adapter.AdapterForLinearLayout getAdpater()
+com.chery.wupin.view.LinearLayoutForListView: void setAdapter(com.chery.wupin.adapter.AdapterForLinearLayout)
+com.chery.wupin.view.LinearLayoutForListView: android.view.View$OnClickListener getOnclickListner()
+com.chery.wupin.view.LinearLayoutForListView: void setOnclickLinstener(android.view.View$OnClickListener)
+com.chery.wupin.view.LockPatternView
+com.chery.wupin.view.LockPatternView: LockPatternView(android.content.Context)
+com.chery.wupin.view.LockPatternView: LockPatternView(android.content.Context,android.util.AttributeSet)
+com.chery.wupin.view.LockPatternView: void setInStealthMode(boolean)
+com.chery.wupin.view.LockPatternView: void setTactileFeedbackEnabled(boolean)
+com.chery.wupin.view.LockPatternView: void setOnPatternListener(com.chery.wupin.view.LockPatternView$OnPatternListener)
+com.chery.wupin.view.LockPatternView: void setDisplayMode(com.chery.wupin.view.LockPatternView$DisplayMode)
+com.chery.wupin.view.LockPatternView: int getSuggestedMinimumWidth()
+com.chery.wupin.view.LockPatternView: int getSuggestedMinimumHeight()
+com.chery.wupin.view.LockPatternView$DisplayMode: com.chery.wupin.view.LockPatternView$DisplayMode[] values()
+com.chery.wupin.view.LockPatternView$DisplayMode: com.chery.wupin.view.LockPatternView$DisplayMode valueOf(java.lang.String)
+com.chery.wupin.view.LockPatternView$SavedState
+com.chery.wupin.view.MyGridView
+com.chery.wupin.view.MyGridView: MyGridView(android.content.Context,android.util.AttributeSet)
+com.chery.wupin.view.RiseNumberTextView
+com.chery.wupin.view.RiseNumberTextView: RiseNumberTextView(android.content.Context)
+com.chery.wupin.view.RiseNumberTextView: RiseNumberTextView(android.content.Context,android.util.AttributeSet)
+com.chery.wupin.view.RiseNumberTextView: RiseNumberTextView(android.content.Context,android.util.AttributeSet,int)
+com.chery.wupin.view.RiseNumberTextView: void setOnEnd(com.chery.wupin.view.RiseNumberTextView$EndListener)
+com.chery.wupin.wxapi.WXEntryActivity
+com.chery.wupin.wxapi.WXEntryActivity: WXEntryActivity()
+com.renn.rennsdk.AccessToken$Type: com.renn.rennsdk.AccessToken$Type[] values()
+com.renn.rennsdk.AccessToken$Type: com.renn.rennsdk.AccessToken$Type valueOf(java.lang.String)
+com.renn.rennsdk.RennRequest$Method: com.renn.rennsdk.RennRequest$Method[] values()
+com.renn.rennsdk.RennRequest$Method: com.renn.rennsdk.RennRequest$Method valueOf(java.lang.String)
+com.renn.rennsdk.exception.RennServerException$ErrorType: com.renn.rennsdk.exception.RennServerException$ErrorType[] values()
+com.renn.rennsdk.exception.RennServerException$ErrorType: com.renn.rennsdk.exception.RennServerException$ErrorType valueOf(java.lang.String)
+com.renn.rennsdk.oauth.OAuthActivity
+com.renn.rennsdk.oauth.OAuthActivity: OAuthActivity()
+com.renn.rennsdk.oauth.RenrenAccountManager$LoginError: com.renn.rennsdk.oauth.RenrenAccountManager$LoginError[] values()
+com.renn.rennsdk.oauth.RenrenAccountManager$LoginError: com.renn.rennsdk.oauth.RenrenAccountManager$LoginError valueOf(java.lang.String)
+com.renn.rennsdk.param.AccessControl: com.renn.rennsdk.param.AccessControl[] values()
+com.renn.rennsdk.param.AccessControl: com.renn.rennsdk.param.AccessControl valueOf(java.lang.String)
+com.renn.rennsdk.param.CommentType: com.renn.rennsdk.param.CommentType[] values()
+com.renn.rennsdk.param.CommentType: com.renn.rennsdk.param.CommentType valueOf(java.lang.String)
+com.renn.rennsdk.param.LikeUGCType: com.renn.rennsdk.param.LikeUGCType[] values()
+com.renn.rennsdk.param.LikeUGCType: com.renn.rennsdk.param.LikeUGCType valueOf(java.lang.String)
+com.renn.rennsdk.param.ShareType: com.renn.rennsdk.param.ShareType[] values()
+com.renn.rennsdk.param.ShareType: com.renn.rennsdk.param.ShareType valueOf(java.lang.String)
+com.renn.rennsdk.param.UGCType: com.renn.rennsdk.param.UGCType[] values()
+com.renn.rennsdk.param.UGCType: com.renn.rennsdk.param.UGCType valueOf(java.lang.String)
+com.sina.weibo.sdk.api.BaseMediaObject
+com.sina.weibo.sdk.api.CmdObject
+com.sina.weibo.sdk.api.CmdObject: android.os.Parcelable$Creator CREATOR
+com.sina.weibo.sdk.api.ImageObject
+com.sina.weibo.sdk.api.ImageObject: android.os.Parcelable$Creator CREATOR
+com.sina.weibo.sdk.api.MusicObject
+com.sina.weibo.sdk.api.MusicObject: android.os.Parcelable$Creator CREATOR
+com.sina.weibo.sdk.api.TextObject
+com.sina.weibo.sdk.api.TextObject: android.os.Parcelable$Creator CREATOR
+com.sina.weibo.sdk.api.VideoObject
+com.sina.weibo.sdk.api.VideoObject: android.os.Parcelable$Creator CREATOR
+com.sina.weibo.sdk.api.VoiceObject
+com.sina.weibo.sdk.api.VoiceObject: android.os.Parcelable$Creator CREATOR
+com.sina.weibo.sdk.api.WebpageObject
+com.sina.weibo.sdk.api.WebpageObject: android.os.Parcelable$Creator CREATOR
+com.sina.weibo.sdk.net.NetStateManager$NetState: com.sina.weibo.sdk.net.NetStateManager$NetState[] values()
+com.sina.weibo.sdk.net.NetStateManager$NetState: com.sina.weibo.sdk.net.NetStateManager$NetState valueOf(java.lang.String)
+com.sina.weibo.sdk.net.NetStateManager$NetStateReceive
+com.tencent.b.b.f$c
+com.tencent.connect.avatar.ImageActivity
+com.tencent.connect.avatar.b: void setImageBitmap(android.graphics.Bitmap)
+com.tencent.connect.common.AssistActivity
+com.tencent.connect.common.AssistActivity: AssistActivity()
+com.tencent.connect.dataprovider.DataType$TextAndMediaPath
+com.tencent.connect.dataprovider.DataType$TextAndMediaPath: android.os.Parcelable$Creator CREATOR
+com.tencent.connect.dataprovider.DataType$TextOnly
+com.tencent.connect.dataprovider.DataType$TextOnly: android.os.Parcelable$Creator CREATOR
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int EXTINFO_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int PATH_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: java.lang.String extInfo
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: java.lang.String filePath
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: byte[] fileData
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: WXAppExtendObject()
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: WXAppExtendObject(java.lang.String,byte[])
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: WXAppExtendObject(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int type()
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: byte[] emojiData
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: java.lang.String emojiPath
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: WXEmojiObject()
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: WXEmojiObject(byte[])
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: WXEmojiObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void setEmojiData(byte[])
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void setEmojiPath(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: int type()
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXFileObject
+com.tencent.mm.sdk.modelmsg.WXFileObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXFileObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXFileObject: int contentLengthLimit
+com.tencent.mm.sdk.modelmsg.WXFileObject: byte[] fileData
+com.tencent.mm.sdk.modelmsg.WXFileObject: java.lang.String filePath
+com.tencent.mm.sdk.modelmsg.WXFileObject: WXFileObject()
+com.tencent.mm.sdk.modelmsg.WXFileObject: WXFileObject(byte[])
+com.tencent.mm.sdk.modelmsg.WXFileObject: WXFileObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXFileObject: void setFileData(byte[])
+com.tencent.mm.sdk.modelmsg.WXFileObject: void setFilePath(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXFileObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXFileObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXFileObject: int type()
+com.tencent.mm.sdk.modelmsg.WXFileObject: void setContentLengthLimit(int)
+com.tencent.mm.sdk.modelmsg.WXFileObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXFileObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXImageObject
+com.tencent.mm.sdk.modelmsg.WXImageObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXImageObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXImageObject: int PATH_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXImageObject: int URL_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXImageObject: byte[] imageData
+com.tencent.mm.sdk.modelmsg.WXImageObject: java.lang.String imagePath
+com.tencent.mm.sdk.modelmsg.WXImageObject: java.lang.String imageUrl
+com.tencent.mm.sdk.modelmsg.WXImageObject: WXImageObject()
+com.tencent.mm.sdk.modelmsg.WXImageObject: WXImageObject(byte[])
+com.tencent.mm.sdk.modelmsg.WXImageObject: WXImageObject(android.graphics.Bitmap)
+com.tencent.mm.sdk.modelmsg.WXImageObject: void setImagePath(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXImageObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXImageObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXImageObject: int type()
+com.tencent.mm.sdk.modelmsg.WXImageObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXImageObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int THUMB_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int TITLE_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int DESCRIPTION_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int MEDIA_TAG_NAME_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int MESSAGE_ACTION_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int MESSAGE_EXT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String ACTION_WXAPPMESSAGE
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int sdkVer
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String title
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String description
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: byte[] thumbData
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject mediaObject
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String mediaTagName
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String messageAction
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String messageExt
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: WXMediaMessage()
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: WXMediaMessage(com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int getType()
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: void setThumbImage(android.graphics.Bitmap)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXMusicObject
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXMusicObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicLowBandUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicDataUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicLowBandDataUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: WXMusicObject()
+com.tencent.mm.sdk.modelmsg.WXMusicObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXMusicObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXMusicObject: int type()
+com.tencent.mm.sdk.modelmsg.WXMusicObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXTextObject
+com.tencent.mm.sdk.modelmsg.WXTextObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXTextObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXTextObject: java.lang.String text
+com.tencent.mm.sdk.modelmsg.WXTextObject: WXTextObject()
+com.tencent.mm.sdk.modelmsg.WXTextObject: WXTextObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXTextObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXTextObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXTextObject: int type()
+com.tencent.mm.sdk.modelmsg.WXTextObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXVideoObject
+com.tencent.mm.sdk.modelmsg.WXVideoObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXVideoObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXVideoObject: java.lang.String videoUrl
+com.tencent.mm.sdk.modelmsg.WXVideoObject: java.lang.String videoLowBandUrl
+com.tencent.mm.sdk.modelmsg.WXVideoObject: WXVideoObject()
+com.tencent.mm.sdk.modelmsg.WXVideoObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXVideoObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXVideoObject: int type()
+com.tencent.mm.sdk.modelmsg.WXVideoObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXWebpageObject
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: java.lang.String webpageUrl
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: WXWebpageObject()
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: WXWebpageObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: int type()
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: boolean checkArgs()
+com.tencent.open.PKDialog
+com.tencent.open.PKDialog: java.lang.String TAG
+com.tencent.open.PKDialog: int WEBVIEW_HEIGHT
+com.tencent.open.PKDialog: int MSG_COMPLETE
+com.tencent.open.PKDialog: int MSG_CANCEL
+com.tencent.open.PKDialog: int MSG_SHOW_TIPS
+com.tencent.open.PKDialog: int MSG_ON_LOAD
+com.tencent.open.PKDialog: int MSG_SHOW_PROCESS
+com.tencent.open.PKDialog: java.lang.String mUrl
+com.tencent.open.PKDialog: com.tencent.tauth.IUiListener listener
+com.tencent.open.PKDialog: com.tencent.open.PKDialog$OnTimeListener mListener
+com.tencent.open.PKDialog: android.os.Handler mHandler
+com.tencent.open.PKDialog: com.tencent.open.b.a mFlMain
+com.tencent.open.PKDialog: android.webkit.WebView mWebView
+com.tencent.open.PKDialog: java.lang.ref.WeakReference sWeakContext
+com.tencent.open.PKDialog: int mWebviewHeight
+com.tencent.open.PKDialog: android.widget.Toast sToast
+com.tencent.open.PKDialog: PKDialog(android.content.Context,java.lang.String,java.lang.String,com.tencent.tauth.IUiListener,com.tencent.connect.auth.QQToken)
+com.tencent.open.PKDialog: void onBackPressed()
+com.tencent.open.PKDialog: void onCreate(android.os.Bundle)
+com.tencent.open.PKDialog: void createViews()
+com.tencent.open.PKDialog: void initViews()
+com.tencent.open.PKDialog: void callJs(java.lang.String,java.lang.String)
+com.tencent.open.PKDialog: void showTips(android.content.Context,java.lang.String)
+com.tencent.open.PKDialog: void showProcessDialog(android.content.Context,java.lang.String)
+com.tencent.open.PKDialog: void loadUrlWithBrowser(java.lang.String,java.lang.String,java.lang.String)
+com.tencent.open.PKDialog: void onKeyboardShown(int)
+com.tencent.open.PKDialog: void onKeyboardHidden()
+com.tencent.open.PKDialog: void onConsoleMessage(java.lang.String)
+com.tencent.open.PKDialog: android.os.Handler access$200(com.tencent.open.PKDialog)
+com.tencent.open.PKDialog: java.lang.String access$300()
+com.tencent.open.PKDialog: java.lang.ref.WeakReference access$400()
+com.tencent.open.PKDialog: com.tencent.open.PKDialog$OnTimeListener access$500(com.tencent.open.PKDialog)
+com.tencent.open.PKDialog: android.webkit.WebView access$600(com.tencent.open.PKDialog)
+com.tencent.open.PKDialog: void access$800(android.content.Context,java.lang.String)
+com.tencent.open.PKDialog: void access$900(android.content.Context,java.lang.String)
+com.tencent.open.PKDialog: void <clinit>()
+com.tencent.open.PKDialog$1
+com.tencent.open.PKDialog$FbWebViewClient
+com.tencent.open.PKDialog$FbWebViewClient: com.tencent.open.PKDialog this$0
+com.tencent.open.PKDialog$FbWebViewClient: PKDialog$FbWebViewClient(com.tencent.open.PKDialog)
+com.tencent.open.PKDialog$FbWebViewClient: boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String)
+com.tencent.open.PKDialog$FbWebViewClient: void onReceivedError(android.webkit.WebView,int,java.lang.String,java.lang.String)
+com.tencent.open.PKDialog$FbWebViewClient: void onPageStarted(android.webkit.WebView,java.lang.String,android.graphics.Bitmap)
+com.tencent.open.PKDialog$FbWebViewClient: void onPageFinished(android.webkit.WebView,java.lang.String)
+com.tencent.open.PKDialog$FbWebViewClient: void onReceivedSslError(android.webkit.WebView,android.webkit.SslErrorHandler,android.net.http.SslError)
+com.tencent.open.PKDialog$FbWebViewClient: PKDialog$FbWebViewClient(com.tencent.open.PKDialog,com.tencent.open.PKDialog$1)
+com.tencent.open.PKDialog$JsListener
+com.tencent.open.PKDialog$JsListener: com.tencent.open.PKDialog this$0
+com.tencent.open.PKDialog$JsListener: PKDialog$JsListener(com.tencent.open.PKDialog)
+com.tencent.open.PKDialog$JsListener: void onComplete(java.lang.String)
+com.tencent.open.PKDialog$JsListener: void onCancel(java.lang.String)
+com.tencent.open.PKDialog$JsListener: void showMsg(java.lang.String)
+com.tencent.open.PKDialog$JsListener: void onLoad(java.lang.String)
+com.tencent.open.PKDialog$JsListener: PKDialog$JsListener(com.tencent.open.PKDialog,com.tencent.open.PKDialog$1)
+com.tencent.open.PKDialog$OnTimeListener
+com.tencent.open.PKDialog$OnTimeListener: java.lang.ref.WeakReference mWeakCtx
+com.tencent.open.PKDialog$OnTimeListener: java.lang.String mAction
+com.tencent.open.PKDialog$OnTimeListener: java.lang.String mUrl
+com.tencent.open.PKDialog$OnTimeListener: java.lang.String mAppid
+com.tencent.open.PKDialog$OnTimeListener: com.tencent.tauth.IUiListener mWeakL
+com.tencent.open.PKDialog$OnTimeListener: PKDialog$OnTimeListener(android.content.Context,java.lang.String,java.lang.String,java.lang.String,com.tencent.tauth.IUiListener)
+com.tencent.open.PKDialog$OnTimeListener: void onComplete(java.lang.String)
+com.tencent.open.PKDialog$OnTimeListener: void onComplete(java.lang.Object)
+com.tencent.open.PKDialog$OnTimeListener: void onError(com.tencent.tauth.UiError)
+com.tencent.open.PKDialog$OnTimeListener: void onCancel()
+com.tencent.open.PKDialog$OnTimeListener: void access$700(com.tencent.open.PKDialog$OnTimeListener,java.lang.String)
+com.tencent.open.PKDialog$THandler
+com.tencent.open.PKDialog$THandler: com.tencent.open.PKDialog$OnTimeListener mL
+com.tencent.open.PKDialog$THandler: PKDialog$THandler(com.tencent.open.PKDialog$OnTimeListener,android.os.Looper)
+com.tencent.open.PKDialog$THandler: void handleMessage(android.os.Message)
+com.tencent.open.TDialog$1
+com.tencent.open.TDialog$FbWebViewClient
+com.tencent.open.TDialog$FbWebViewClient: com.tencent.open.TDialog this$0
+com.tencent.open.TDialog$FbWebViewClient: TDialog$FbWebViewClient(com.tencent.open.TDialog)
+com.tencent.open.TDialog$FbWebViewClient: boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String)
+com.tencent.open.TDialog$FbWebViewClient: void onReceivedError(android.webkit.WebView,int,java.lang.String,java.lang.String)
+com.tencent.open.TDialog$FbWebViewClient: void onPageStarted(android.webkit.WebView,java.lang.String,android.graphics.Bitmap)
+com.tencent.open.TDialog$FbWebViewClient: void onPageFinished(android.webkit.WebView,java.lang.String)
+com.tencent.open.TDialog$FbWebViewClient: void onReceivedSslError(android.webkit.WebView,android.webkit.SslErrorHandler,android.net.http.SslError)
+com.tencent.open.TDialog$FbWebViewClient: TDialog$FbWebViewClient(com.tencent.open.TDialog,com.tencent.open.TDialog$1)
+com.tencent.open.TDialog$JsListener
+com.tencent.open.TDialog$JsListener: com.tencent.open.TDialog this$0
+com.tencent.open.TDialog$JsListener: TDialog$JsListener(com.tencent.open.TDialog)
+com.tencent.open.TDialog$JsListener: void onAddShare(java.lang.String)
+com.tencent.open.TDialog$JsListener: void onInvite(java.lang.String)
+com.tencent.open.TDialog$JsListener: void onCancelAddShare(java.lang.String)
+com.tencent.open.TDialog$JsListener: void onCancelLogin()
+com.tencent.open.TDialog$JsListener: void onCancelInvite()
+com.tencent.open.TDialog$JsListener: void onComplete(java.lang.String)
+com.tencent.open.TDialog$JsListener: void onCancel(java.lang.String)
+com.tencent.open.TDialog$JsListener: void showMsg(java.lang.String)
+com.tencent.open.TDialog$JsListener: void onLoad(java.lang.String)
+com.tencent.open.TDialog$JsListener: TDialog$JsListener(com.tencent.open.TDialog,com.tencent.open.TDialog$1)
+com.tencent.open.TDialog$OnTimeListener
+com.tencent.open.TDialog$OnTimeListener: java.lang.ref.WeakReference mWeakCtx
+com.tencent.open.TDialog$OnTimeListener: java.lang.String mAction
+com.tencent.open.TDialog$OnTimeListener: java.lang.String mUrl
+com.tencent.open.TDialog$OnTimeListener: java.lang.String mAppid
+com.tencent.open.TDialog$OnTimeListener: com.tencent.tauth.IUiListener mWeakL
+com.tencent.open.TDialog$OnTimeListener: TDialog$OnTimeListener(android.content.Context,java.lang.String,java.lang.String,java.lang.String,com.tencent.tauth.IUiListener)
+com.tencent.open.TDialog$OnTimeListener: void onComplete(java.lang.String)
+com.tencent.open.TDialog$OnTimeListener: void onComplete(java.lang.Object)
+com.tencent.open.TDialog$OnTimeListener: void onError(com.tencent.tauth.UiError)
+com.tencent.open.TDialog$OnTimeListener: void onCancel()
+com.tencent.open.TDialog$OnTimeListener: void access$000(com.tencent.open.TDialog$OnTimeListener,java.lang.String)
+com.tencent.open.TDialog$THandler
+com.tencent.open.TDialog$THandler: com.tencent.open.TDialog$OnTimeListener mL
+com.tencent.open.TDialog$THandler: TDialog$THandler(com.tencent.open.TDialog$OnTimeListener,android.os.Looper)
+com.tencent.open.TDialog$THandler: void handleMessage(android.os.Message)
+com.tencent.open.a$a: a$a()
+com.tencent.open.a$a: void call(java.lang.String,java.util.List,com.tencent.open.a$b)
+com.tencent.open.a$a: boolean customCallback()
+com.tencent.open.d: com.tencent.open.a jsBridge
+com.tencent.open.d: android.webkit.WebChromeClient mChromeClient
+com.tencent.open.d: d(android.content.Context)
+com.tencent.open.d: d(android.content.Context,int)
+com.tencent.open.d: void onCreate(android.os.Bundle)
+com.tencent.open.d: void onConsoleMessage(java.lang.String)
+com.tencent.stat.EasyActivity
+com.tencent.stat.EasyListActivity
+com.tencent.stat.StatReportStrategy: com.tencent.stat.StatReportStrategy[] values()
+com.tencent.stat.StatReportStrategy: com.tencent.stat.StatReportStrategy valueOf(java.lang.String)
+com.tencent.tauth.AuthActivity
+com.tencent.tauth.AuthActivity: AuthActivity()
+com.tencent.weiyun.FileManager$WeiyunFileType: com.tencent.weiyun.FileManager$WeiyunFileType[] values()
+com.tencent.weiyun.FileManager$WeiyunFileType: com.tencent.weiyun.FileManager$WeiyunFileType valueOf(java.lang.String)
